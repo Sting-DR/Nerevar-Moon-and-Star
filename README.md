@@ -1,6 +1,6 @@
 # Nerevar Moon-and-Star
 
-*An OpenMW Modlist · Vanilla+*
+*An OpenMW Modlist · Vanilla++*
 
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
@@ -11,11 +11,15 @@
 
 ## Overview
 
-Most textures are paired with PBR specular and normal maps via **MVR PBR v2**, giving surfaces genuine material depth under OpenMW's physically-based lighting.
+A visually and mechanically enhanced Vanilla++ experience for both returning and new players looking for an overhauled experience. 
 
 The main quest and Tribunal receive targeted improvements. Bloodmoon is replaced by **Tomb of the Snow Prince**. DLC difficulty is brought in line with the base game; main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
 
 The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
+
+Several mods that improve environmental storytelling, questing, gameplay, immersion, role-playing, dialogue etc.
+
+Most textures are paired with PBR specular and normal maps, giving surfaces genuine material depth under OpenMW's physically-based lighting. 
 
 ---
 
@@ -24,19 +28,21 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 **Textures**
 - Morrowind Enhanced Textures 6.1
 - MVR PBR v2
-- Glow in the Dahrk
+- OpenMW Landscape Remastered 2.0 - Parallax - PBR
+
+**Cities**
 - Beautiful Cities of Morrowind
+- Concept Art Palace
+- Immersive Mournhold
+- OAAB Grazelands
+- OAAB Tel Mora
+- Tel Fyr - A Village in Mourning
+- Hla Odai
+  
+**Interiors**
+- Glow in the Dahrk
 - Morrowind Interiors Project
-
-**Shaders & Lighting**
-- Epoch's Post Process Shaders
-- Screenspace Lighting and Shadowing
-- OpenMW Dynamic Ambient Visual Effects
-
-**Nature & Sky**
-- Vurt's Animated Tree Suite
-- Skies .IV & Better Night Sky
-
+  
 ---
 
 ## Gameplay & Mechanics
@@ -44,10 +50,9 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 **Combat**
 - N'Garde — Active Block and Parry
 - Bullseye
-- Timed Directional Attacks
-- Backstabs
-- Weapon Sheathing 1.6
 - ReAnimation v2 Rogue
+- MercyCAO
+- SneakIsGoodNow
 
 **Difficulty & Balance**
 - Beware the Sixth House
@@ -55,6 +60,7 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 - Tribunal & Bloodmoon Rebalance
 - MDMD — More Deadly Morrowind Denizens
 - Improved Vanilla Leveling
+- Harder Better Faster Stronger (OpenMW)
 
 **Immersion & Character**
 - Sun's Dusk
@@ -73,30 +79,39 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 - Project Cyrodiil
 - Skyrim: Home of the Nords
 - Lyithdonea — The Azurian Isles
+- Windhelm - City of the Kings
 
 **Location Overhauls**
 - Kogoruhn — Extinct City of Ash and Sulfur
-- The Corprusarium Experience
 - New Ilunibi
+- Of Eggs and Dwarves
+- Better Dunmer Strongholds
+- Dwemer Legacy Reforged - Arkngthunch-Sturdumz
+- Unholy Trinity
 
 ---
 
 ## Companions
 
-- Arvesa
-- Ahnassi Shares a Song
-- Prisoner Jiub
+- Arvesa - An Armiger's Tale
+- M'Aiq Overhaul - Liar yes - Idiot no
 
 ---
 
 ## Factions & Story
 
 **Faction Additions**
-- South Wall — A Thieves Guild Hideout
-- Web of Mephala
+- Traitor among Vampires
+- RP House Hlaalu
+- Rise of House Telvanni
+- Magical Missions Recharged
 - Magically Thievish Thieves Guild
-- Free the Slaves
-- The Law of House Telvanni
+- Fighters Guild Improved
+- Camonna Tong - Puppet Master
+- Morag Tong Polished
+- Lost Relics of the Temple
+- OAAB Juniper's Twin Lamps
+
 
 **Narrative**
 - The Dream is the Door
@@ -113,10 +128,6 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 - Cutting Room Floor — Modular
 - OAAB Data
 
-**Quality of Life**
-- Smart Ammo for OpenMW
-- Perfect Placement
-
 ---
 
 ## Requirements
@@ -125,9 +136,9 @@ The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.n
 |---|---|
 | **Engine** | OpenMW 51.0 or later |
 | **DLCs** | Tribunal and Bloodmoon (both required) |
-| **Downloads** | ~42–43 GB |
-| **Installed** | ~63–64 GB |
-| **Total** | ~105–107 GB — archives can be deleted after installation |
+| **Downloads** | ~43 GB |
+| **Installed** | ~64 GB |
+| **Total** | ~107 GB — archives can be deleted after installation |
 
 > Difficulty is higher than vanilla. Adjust the in-game slider or HarderBetterFasterStronger settings at any time.
 
