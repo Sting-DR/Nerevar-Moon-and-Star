@@ -1,4 +1,4 @@
-# Nerevar Moon-and-Star
+# Nerevar Moon-and-Starr (NEMAS) - A Wabbajack Modlist for OpenMW
 
 *An OpenMW Modlist · Vanilla++*
 
