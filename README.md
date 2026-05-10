@@ -95,6 +95,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 - Arvesa - An Armiger's Tale
 - M'Aiq Overhaul - Liar yes - Idiot no
+- Dras the Dunmer Legionnaire
 
 ---
 
@@ -113,10 +114,13 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - OAAB Juniper's Twin Lamps
 
 
-**Narrative**
-- The Dream is the Door
-- Gare's Last Gasp
-- Honorable Dagoth
+**Quests**
+- Dawnbreaker - The Lady of Light
+- Vivec Lighthouse Keeper - Questline
+- Red Wisdom - An Ashlander Prophecy
+- Beyond the Firmament
+- The Wizard's Affair
+- Aspect of Azura
 
 ---
 
@@ -138,7 +142,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 | **DLCs** | Tribunal and Bloodmoon (both required) |
 | **Downloads** | ~43 GB |
 | **Installed** | ~64 GB |
-| **Total** | ~107 GB — archives can be deleted after installation |
+| **Total** | ~107 GB — downloaded archives can be deleted after installation |
 
 > Difficulty is higher than vanilla. Adjust the in-game slider or HarderBetterFasterStronger settings at any time.
 
