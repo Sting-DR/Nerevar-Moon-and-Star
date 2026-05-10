@@ -1,4 +1,4 @@
-# Nerevar Moon-and-Star(NEMAS)
+# Nerevar Moon-and-Star (NEMAS)
 *An OpenMW Modlist · Vanilla++*
 
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
