@@ -1,5 +1,5 @@
 # Nerevar Moon-and-Star (NEMAS)
-*An OpenMW Modlist · Vanilla++*
+*An OpenMW Wabbajack Modlist · Vanilla++*
 
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
