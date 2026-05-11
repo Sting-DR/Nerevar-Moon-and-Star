@@ -10,6 +10,9 @@
 
 ---
 
+Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.
+
+
 ## Overview
 
 A visually and mechanically overhauled experience for returning and new players looking for a new adventure across Vvardenfell. 
