@@ -112,7 +112,8 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 
 **Quests**
-- Dawnbreaker - The Lady of Light
+- God of Worms - Succession
+- The Garden of Dreams
 - Vivec Lighthouse Keeper - Questline
 - Red Wisdom - An Ashlander Prophecy
 - Beyond the Firmament
