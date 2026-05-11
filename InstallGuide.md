@@ -59,7 +59,7 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * If the openmw.exe does not open directly try opening the openmwlauncher.exe.
 
-* If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green glow.
+* If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
 * Audiobooks are included, press X while viewing a book to start.
 
