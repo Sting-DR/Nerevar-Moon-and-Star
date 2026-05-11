@@ -16,7 +16,7 @@ A visually and mechanically overhauled experience for returning and new players 
 
 All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
 
-The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
+The new experience has been designed to be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
 
 Includes lore-friendly bug fixes and several mods to improve environmental storytelling, questing, gameplay, immersion, role-playing, dialogue etc.
 
