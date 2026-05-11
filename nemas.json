@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMASthumb.webp",
+      "image": "https://github.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMASthumb.png",
       "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
       "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star.wabbajack_3e00fcfd-a8a0-4d3a-8d01-cf567ae799ab",
       "machineURL": "NerevarMoonAndStar",
