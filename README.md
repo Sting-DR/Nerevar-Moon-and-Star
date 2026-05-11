@@ -118,6 +118,13 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - Aspect of Azura
 
  And many more.
+
+**A list of all included mods can be found here,**
+[ModlistSheet](https://www.nexusmods.com/morrowind/mods/55542)
+
+**Join the discord server for help with installation**
+[NEMAS](https://discord.gg/nASA3evJSX)
+
 ---
 
 ## Requirements
