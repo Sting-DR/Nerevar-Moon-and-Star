@@ -29,8 +29,6 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * Create folders to use as download and install directories.
 
-* Total storage required is 95 GB, including 38 GB for downloads which you can delete later if you want.
-
 * Install modlist from Wabbajack.
 
 * If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folders.
