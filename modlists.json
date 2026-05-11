@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Nerevar Moon-and-Star",
+    "description": "A visually and mechanically enhanced Vanilla++ experience for both returning and new players looking for an overhauled experience.",
+    "author": "StingDR",
+    "maintainers": [
+      "github/Sting-DR"
+    ],
+    "game": "morrowind",
+    "official": false,
+    "tags": [
+      "Combat Overhaul",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMASthumb.webp",
+      "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "NerevarMoonAndStar",
+      "discordURL": "https://discord.gg/nASA3evJSX"
+    },
+    "download_metadata": {
+      "Hash": "Fc4ws+xwQ/U=",
+      "Size": 19047192,
+      "NumberOfArchives": 1010,
+      "SizeOfArchives": 43900689192,
+      "NumberOfInstalledFiles": 162308,
+      "SizeOfInstalledFiles": 67981394974
+      "TotalSize": 111882084166
+    },
+    "version": "3.0"
+  }
+]
+
