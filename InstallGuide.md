@@ -74,25 +74,27 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 -  RUN :
             set key binding
             Maximum speed buff - 2000
--  Harder Better Faster Stronger:
+-  Harder Better Faster Stronger :
             Base Percent Diffculty Presets - Normal
--  Animated Levitation:
+-  Animated Levitation :
             SFX volume - 30
--  Attend me:
+-  Attend me :
             enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it 		altogether just keep the hud hidden)
--  Buff timers:
+-  Buff timers :
             adjust hud to your liking and then disable the borders once you're done
--  Friendly Autosave:
+-  Friendly Autosave :
             adjust to your liking
--  Daedra use bound equipment:
+-  Daedra use bound equipment :
             (I'd set chance of removing weapons to 80%)
--  Sun's Dusk:
+-  Sun's Dusk :
             configure according to your liking, check their modpage for more information
--  N'Garde:
+-  N'Garde :
             set keybinding 
--  Gothic Style Knockout:
+-  Gothic Style Knockout :
             if you notice npcs dying instead of getting knocked out when reaching 0 HP just try resetting or disabling and enabling the mod again
--  QuickSelectUltimate:
-		        Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
+-  Devilish Dress Undress Hotkey :
+			set keybinding
+-  QuickSelectUltimate :
+		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
   ---
 	
