@@ -38,10 +38,6 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - Tel Fyr - A Village in Mourning
 - Hla Odai
   
-**Interiors**
-- Glow in the Dahrk
-- Morrowind Interiors Project
-  
 ---
 
 ## Gameplay & Mechanics
@@ -121,6 +117,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - The Wizard's Affair
 - Aspect of Azura
 
+ And many more.
 ---
 
 ## Requirements
