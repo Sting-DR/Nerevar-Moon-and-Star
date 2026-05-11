@@ -18,7 +18,7 @@ The main quest and Tribunal receive targeted improvements. Bloodmoon is replaced
 
 The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
 
-Several mods to improve environmental storytelling, questing, gameplay, immersion, role-playing, dialogue etc.
+Includes lore-friendly bug fixes and several mods to improve environmental storytelling, questing, gameplay, immersion, role-playing, dialogue etc.
 
 Most textures are paired with PBR specular and normal maps, giving surfaces genuine material depth under OpenMW's physically-based lighting. 
 
