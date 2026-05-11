@@ -122,14 +122,6 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
  And many more.
 
-## Please follow this *[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/3a7194bc9f00f0b3ac3c07f404e1e02cce5baa39/InstallGuide.md)*.
-
-**A list of all included mods can be found here,**
-- [ModlistSheet](https://docs.google.com/spreadsheets/d/1YKgj6wLJKHJDHQAIO8sef87B2xZC_IfqHGDhXGl0aGM/edit?usp=sharing)
-
-**Join the discord server if you require help with installation**
-- [NEMAS](https://discord.gg/nASA3evJSX)
-
 ---
 
 ## Requirements
@@ -141,6 +133,19 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 | **Downloads** | ~43 GB |
 | **Installed** | ~64 GB |
 | **Total** | ~107 GB — downloaded archives can be deleted after installation |
+
+---
+
+## Please follow this *[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/3a7194bc9f00f0b3ac3c07f404e1e02cce5baa39/InstallGuide.md)*.
+
+
+**A list of all included mods can be found here,**
+- [ModlistSheet](https://docs.google.com/spreadsheets/d/1YKgj6wLJKHJDHQAIO8sef87B2xZC_IfqHGDhXGl0aGM/edit?usp=sharing)
+
+**Join the discord server if you require help with installation**
+- [NEMAS](https://discord.gg/nASA3evJSX)
+
+---
 
 > Difficulty is higher than vanilla. Adjust the in-game slider or HarderBetterFasterStronger settings at any time.
 
