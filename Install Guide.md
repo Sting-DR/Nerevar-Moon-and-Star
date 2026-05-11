@@ -56,39 +56,45 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * You can now finally actually play the game!
 
+
+ ---
+
+* If the openmw.exe does not open directly try opening the openmwlauncher.exe.
+
+* If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green glow.
+
+* Audiobooks are included, press X while viewing a book to start.
+
 * Even though all the Tamriel Data races are available to choose from during character creation, it’s best to stick to the vanilla races from the base game if you want to minimize the chances of your playthrough bugging out. The new races haven’t been tested enough and are likely to run into issues sooner or later.
 
 * If you get a giant transparent box on the left side of the screen when you first start -
       open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking. Or disable it entirely if you're not fond of it
 
+---
+
 * Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following -
-      skill evolution : (only in Star profile)
-            enable refund - yes
-            enable MBSP - yes
-      RUN :
+-  RUN :
             set key binding
             Maximum speed buff - 2000
-      Harder Better Faster Stronger:
+-  Harder Better Faster Stronger:
             Base Percent Diffculty Presets - Normal
-      Dynamic Ambient Visual Effects:
-            add smoke to candles - yes
-            disable smoke for carriable candles - no
-      Animated Levitation:
+-  Animated Levitation:
             SFX volume - 30
-      Attend me:
-            enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it altogether just keep the hud hidden)
-      Buff timers:
+-  Attend me:
+            enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it 		altogether just keep the hud hidden)
+-  Buff timers:
             adjust hud to your liking and then disable the borders once you're done
-      Friendly Autosave:
+-  Friendly Autosave:
             adjust to your liking
-      Daedra use bound equipment:
+-  Daedra use bound equipment:
             (I'd set chance of removing weapons to 80%)
-      Sun's Dusk: (only in Dusk profile)
+-  Sun's Dusk:
             configure according to your liking, check their modpage for more information
-      N'Garde:
+-  N'Garde:
             set keybinding 
-      Gothic Style Knockout:
+-  Gothic Style Knockout:
             if you notice npcs dying instead of getting knocked out when reaching 0 HP just try resetting or disabling and enabling the mod again
-	    QuickSelectUltimate:
+-  QuickSelectUltimate:
 		        Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
+  ---
 	
