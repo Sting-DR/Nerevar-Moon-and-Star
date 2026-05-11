@@ -123,16 +123,6 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Further Highlights
-
-**Foundations**
-- Patch for Purists
-- Morrowind Optimization Patch
-- Cutting Room Floor — Modular
-- OAAB Data
-
----
-
 ## Requirements
 
 | | |
