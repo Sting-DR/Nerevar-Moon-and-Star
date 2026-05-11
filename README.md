@@ -122,10 +122,10 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
  And many more.
 
 **A list of all included mods can be found here,**
-[ModlistSheet](https://www.nexusmods.com/morrowind/mods/55542)
+- [ModlistSheet](https://docs.google.com/spreadsheets/d/1YKgj6wLJKHJDHQAIO8sef87B2xZC_IfqHGDhXGl0aGM/edit?usp=sharing)
 
 **Join the discord server for help with installation**
-[NEMAS](https://discord.gg/nASA3evJSX)
+- [NEMAS](https://discord.gg/nASA3evJSX)
 
 ---
 
