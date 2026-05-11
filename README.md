@@ -14,7 +14,7 @@
 
 A visually and mechanically overhauled experience for returning and new players looking for a new adventure across Vvardenfell. 
 
-The main quest and Tribunal receive targeted improvements. Bloodmoon is replaced by **Tomb of the Snow Prince**. DLC difficulty is brought in line with the base game; main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
+All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
 
 The game will be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
 
@@ -65,6 +65,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - Blight Storms Restored
 - Character Traits Framework
 - Tamriel Unlimited
+- Voice acting for a select few NPCs
 
 ---
 
