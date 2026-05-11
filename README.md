@@ -1,4 +1,6 @@
-# Nerevar Moon-and-Star (NEMAS)
+![NEMAS Banner](https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png)
+
+# **Nerevar Moon-and-Star (NEMAS)**
 *An OpenMW Wabbajack Modlist · Vanilla++*
 
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
