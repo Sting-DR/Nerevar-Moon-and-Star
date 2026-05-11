@@ -16,12 +16,12 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMASthumb.png",
       "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
       "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star.wabbajack_3e00fcfd-a8a0-4d3a-8d01-cf567ae799ab",
       "machineURL": "NerevarMoonAndStar",
-      "discordURL": "https://discord.gg/nASA3evJSX"
+      "discordURL": "https://discord.gg/nASA3evJSX",
+      "websiteURL": "https://www.nexusmods.com/morrowind/mods/58569"
     },
     "download_metadata": {
       "Hash": "Fc4ws+xwQ/U=",
