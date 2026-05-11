@@ -72,7 +72,7 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 ---
 
-* Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following -
+*Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
 -  RUN :
             set key binding
             Maximum speed buff - 2000
