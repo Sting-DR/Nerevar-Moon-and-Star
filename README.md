@@ -1,4 +1,4 @@
-![NEMAS Banner](https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png)
+![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/386a327ae5473f079a36dcd4f7f83b6b38b3bded/NEMASthumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
 *An OpenMW Wabbajack Modlist · Vanilla++*
