@@ -780,7 +780,7 @@ config:
       - 0.270000041
       - 0.369999945
       - 0.35000062
-    uEnabled: true
+    uEnabled: false
   CRT:
     ZOOM_OUT: true
     ENABLE_CURVE: true
@@ -847,12 +847,12 @@ config:
       - 0.00784313772
       - 0.0666666701
     uOpacity: 0
-    uMaxArcAngle: 3.14159274
-    uCurArcAngle: 3.1104877
+    uMaxArcAngle: 2.87979317
+    uCurArcAngle: 2.87979317
     uAnimatedSectors:
       -
-        - 3.1104877
-        - 3.1104877
+        - 0
+        - 0
         - 1
       -
         - 0
@@ -865,7 +865,7 @@ config:
     uLostHpTailAngle: 3.1104877
     uOnHitWaveProgress: 1
   speedBlur:
-    uRadius: 0
+    uRadius: 3.34088594e-12
   blackScreen:
     opacity: 0
   hexDoFProgrammable:
@@ -1395,9 +1395,9 @@ config:
     uEnabled: true
     flipV: false
     FilmStock: 28
-    FilmStrength: 30
+    FilmStrength: 10
     PrintStock: 6
-    PrintStrength: 30
+    PrintStrength: 15
   Multi-LUT_performance:
     uEnabled: true
     flipV: false
