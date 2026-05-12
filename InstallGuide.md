@@ -35,7 +35,7 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-* Copy my [shaders.yaml](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/1ad984b23152ac317ee85a725295dc234927bc6a/shaders.yaml) to "Users\Admin\Documents\My Games\OpenMW" and replace the existing one.
+* Copy my [shaders.yaml](https://github.com/Sting-DR/Nerevar-Moon-and-Star/shaders.yaml) to "Users\Admin\Documents\My Games\OpenMW" and replace the existing one.
 
 * To disable enemy health bars since the mod Dynamic Reticle already covers it:
 
