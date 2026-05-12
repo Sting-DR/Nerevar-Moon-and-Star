@@ -53,7 +53,7 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 * In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
 * *Ignore this if using any version after 3.0*,
-  While ingame open the shader HUD by pressing F2. 
+  - While ingame open the shader HUD by pressing F2. 
   Activate both Multi-LUT_performance and Multi-LUT-interior_performance by sending them to the right side of the hud, then adjust their position in the list to match where    multi-LUT and multi-LUT interior are respectively. The new LUT shaders are more performance friendly versions of the older ones which had been removed from the modlist but   still show up in the shader HUD due to an error.
 
 * You can now finally actually play the game!
