@@ -52,16 +52,14 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
-* *Ignore this if using any version after 3.0*,
-  - While ingame open the shader HUD by pressing F2. 
-  Activate both Multi-LUT_performance and Multi-LUT-interior_performance by sending them to the right side of the hud, then adjust their position in the list to match where    multi-LUT and multi-LUT interior are respectively. The new LUT shaders are more performance friendly versions of the older ones which had been removed from the modlist but   still show up in the shader HUD due to an error.
-
 * You can now finally actually play the game!
 
 
  ---
 
 * If the openmw.exe does not open directly try opening the openmwlauncher.exe.
+
+* Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two.
 
 * If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
@@ -70,8 +68,12 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 * Even though all the Tamriel Data races are available to choose from during character creation, it’s best to stick to the vanilla races from the base game if you want to minimize the chances of your playthrough bugging out. The new races haven’t been tested enough and are likely to run into issues sooner or later.
 
 * If you get a giant transparent box on the left side of the screen when you first start -
-      open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking. Or disable it entirely if you're not fond of it
+      open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking.
 
+* The SSGI shaders can be a bit performance heavy so disable them in shader settings if needed, pressing F2 while in-game will bring up the post processing menu.
+
+* Important texture replacers and replacers with plugins have been separated and placed under Misc Textures, now you can safely disable all the mods under the TexturePacks category to get some performance gain if needed.
+  
 ---
 
 *Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
