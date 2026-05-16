@@ -145,7 +145,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 
 **A list of all included mods can be found here,**
-- [ModlistSheet](https://docs.google.com/spreadsheets/d/1YKgj6wLJKHJDHQAIO8sef87B2xZC_IfqHGDhXGl0aGM/edit?usp=sharing)
+- [ModlistSheet](https://drive.google.com/drive/folders/1WlrjF5nL_Fo5pq_-IuDnhDI-0FMiKrXC?usp=sharing)
 
 **Join the discord server if you require help with installation**
 - [NEMAS](https://discord.gg/nASA3evJSX)
