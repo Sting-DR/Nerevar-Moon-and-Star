@@ -1,7 +1,7 @@
 ![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/386a327ae5473f079a36dcd4f7f83b6b38b3bded/NEMASthumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
-*An OpenMW Wabbajack Modlist · Vanilla++*
+*An OpenMW Wabbajack Modlist · Vanilla++ · Overhaul*
 
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
