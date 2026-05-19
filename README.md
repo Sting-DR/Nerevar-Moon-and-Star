@@ -10,7 +10,7 @@
 
 ---
 
-Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.
+Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.  
 For **installation instructions** scroll to the bottom.
 
 
