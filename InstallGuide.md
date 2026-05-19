@@ -76,37 +76,56 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
   
 ---
 
-* Audiobooks are included, press X while viewing a book to start.
+* Press X while viewing a book to start playing its Audiobook.
 
-* Press N to undress or dress back up instantly.
+* Press N to Undress or dress back up instantly.
+
+* Press X to bring up the OpenMW Quest Menu.
+
+* Press V to equip a Light sources you have.
   
 *Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
 -  RUN :
             set key binding
             Maximum speed buff - 2000
+   
 -  Harder Better Faster Stronger :
             Base Percent Diffculty Presets - Normal
+   
 -  Animated Levitation :
             SFX volume - 30
+   
 -  Attend me :
-            enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it 		altogether just keep the hud hidden)
+            enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it altogether just keep the hud hidden)
+   
 -  Buff timers :
             adjust hud to your liking and then disable the borders once you're done
+   
 -  Friendly Autosave :
             adjust to your liking
+   
 -  Daedra use bound equipment :
             (I'd set chance of removing weapons to 80%)
+   
 -  Sun's Dusk :
             configure according to your liking, check their modpage for more information
+   
 -  N'Garde :
             set keybinding
    			Glancing blows (choose as you wish)
+   
+-  OpenMW Quest Menu :
+  			set keybinding (since its default binding X conflicts with Audiobook play button you might want to change this)
+   
 -  Gothic Style Knockout :
             if you notice npcs dying instead of getting knocked out when reaching 0 HP just try resetting or disabling and enabling the mod again
+   
 -  Devilish Dress Undress Hotkey :
 			set keybinding
+   
 -  Protection from Sun Damage :
   			Require Closed Helmet - no
+   
 -  QuickSelectUltimate :
 		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
   ---
