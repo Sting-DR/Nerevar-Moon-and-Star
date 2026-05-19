@@ -52,7 +52,7 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
-* You can now finally actually play the game!
+* You can now finally actually play the game! However it is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further issues.
 
 
  ---
@@ -63,8 +63,6 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
-* Audiobooks are included, press X while viewing a book to start.
-
 * Even though all the Tamriel Data races are available to choose from during character creation, it’s best to stick to the vanilla races from the base game if you want to minimize the chances of your playthrough bugging out. The new races haven’t been tested enough and are likely to run into issues sooner or later.
 
 * If you get a giant transparent box on the left side of the screen when you first start -
@@ -72,10 +70,16 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 
 * The SSGI shaders can be a bit performance heavy so disable them in shader settings if needed, pressing F2 while in-game will bring up the post processing menu.
 
+* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
+  
 * Important texture replacers and replacers with plugins have been separated and placed under Misc Textures, now you can safely disable all the mods under the TexturePacks category to get some performance gain if needed.
   
 ---
 
+* Audiobooks are included, press X while viewing a book to start.
+
+* Press N to undress or dress back up instantly.
+  
 *Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
 -  RUN :
             set key binding
@@ -95,11 +99,14 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 -  Sun's Dusk :
             configure according to your liking, check their modpage for more information
 -  N'Garde :
-            set keybinding 
+            set keybinding
+   			Glancing blows (choose as you wish)
 -  Gothic Style Knockout :
             if you notice npcs dying instead of getting knocked out when reaching 0 HP just try resetting or disabling and enabling the mod again
 -  Devilish Dress Undress Hotkey :
 			set keybinding
+-  Protection from Sun Damage :
+  			Require Closed Helmet - no
 -  QuickSelectUltimate :
 		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
   ---
