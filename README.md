@@ -151,10 +151,10 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 **Join the discord server if you require help with installation**
 - [NEMAS](https://discord.gg/nASA3evJSX)
 
+- Link to [Load Order Library](https://loadorderlibrary.com/lists/nerevar-moon-and-star)
 ---
 
 > Difficulty is higher than vanilla. Adjust the in-game slider or HarderBetterFasterStronger settings at any time.
 
 ---
-
 *All mods remain the property of their respective authors.*
