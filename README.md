@@ -9,7 +9,7 @@
 ![~1000 Mods](https://img.shields.io/badge/Mods-~1000-informational)
 
 ---
-
+Try installing from Nexus incase the Wabbajack version fails.
 Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.  
 
 For **installation instructions** scroll to the bottom.
