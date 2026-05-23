@@ -147,7 +147,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 **A list of all included mods can be found here,**
 - [ModlistSheet](https://drive.google.com/drive/folders/1WlrjF5nL_Fo5pq_-IuDnhDI-0FMiKrXC?usp=sharing)
-- Link to [Load Order Library](https://loadorderlibrary.com/lists/nerevar-moon-and-star)  
+- [Load Order Library](https://loadorderlibrary.com/lists/nerevar-moon-and-star)  
 
 **Join the discord server if you require help with installation**
 - [NEMAS](https://discord.gg/nASA3evJSX)
