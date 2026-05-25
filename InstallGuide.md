@@ -71,7 +71,10 @@ and open the newly copied file “lighting_pbr.glsl” with a text editor and ch
 * The SSGI shaders can be a bit performance heavy so disable them in shader settings if needed, pressing F2 while in-game will bring up the post processing menu.
 
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
-  
+
+* If you encounter a green screen bug then refer to this - 
+      go in-game and press F2 to bring up the post-processing HUD, then disable/enable Flip-V for Multi-LUT and Multi-LUT-interior.
+    
 * Important texture replacers and replacers with plugins have been separated and placed under Misc Textures, now you can safely disable all the mods under the TexturePacks category to get some performance gain if needed.
   
 ---
