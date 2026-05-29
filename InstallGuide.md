@@ -18,19 +18,15 @@
       Debanded or Disabled Fog for OpenMW 0.48 and 0.49 (install instructions inside the downloaded archive) - https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259
   	  (Use disabled fog)
 
-      Liam's Kitbashed PBR (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes -
+      Liam's Kitbashed PBR (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes -  
       https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688
       
-	  Liam's Rafael Water Edits (follow install instructions as given inside and overwrite existing files) -
+	  Liam's Rafael Water Edits (follow install instructions as given inside and overwrite existing files) -  
 	  https://files.nexus-cdn.com/100/59113/Liam's Rafael Water Edits-59113-1-1779831917.zip?md5=jCkw6mxuMixP3rp0AG1OdQ&expires=1780011774&user_id=139364848
       (Page Link if the above direct link does not work - https://www.nexusmods.com/morrowind/mods/59113?tab=files)
 
-	  Kart's Shader Collection for OpenMW (copy the shaders folder from inside "shadows-performance-core" to inside "OpenMW 0.51.0\resources", if copied correctly it should ask to overwrite existing file, click yes -
-  	  https://www.nexusmods.com/morrowind/mods/58181?tab=files&file_id=1000060601
-
-* Head over to “OpenMW 0.51.0\resources\shaders\lib\light”,
-and open the newly copied file “lighting_pbr.glsl” with a text editor and change the value next to 
-“#define PBR_IM_USING_BROKEN_AO_MAPS_PLS_TRASH_THEM_KTHX” from 0 to 1. 
+	  Edited lighting PBR settings file to use with NEMAS (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite) -
+   	  https://www.nexusmods.com/morrowind/mods/58569?tab=files
 
 * Create folders to use as download and install directories.
 
