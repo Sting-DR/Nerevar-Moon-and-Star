@@ -71,8 +71,10 @@
 * If you get a giant transparent box on the left side of the screen when you first start -
       open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking.
 
-* The SSGI shaders can be a bit performance heavy so disable them in shader settings if needed, pressing F2 while in-game will bring up the post processing menu.
+- The SSGI shaders can be a bit performance heavy, press F2 while in-game to bring up the post processing menu and disable them.
 
+* To disable depth of field press F2 while ingame and disable fuzdof.
+    
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
 
 * If you encounter a green screen bug then refer to this - 
