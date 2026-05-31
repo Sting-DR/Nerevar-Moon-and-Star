@@ -71,17 +71,13 @@
 * If you get a giant transparent box on the left side of the screen when you first start -
       open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking.
 
-- The SSGI shaders can be a bit performance heavy, press F2 while in-game to bring up the post processing menu and disable them.
-
 * To disable depth of field press F2 while ingame and disable fuzdof.
     
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
 
 * If you encounter a green screen bug then refer to this - 
       go in-game and press F2 to bring up the post-processing HUD, then disable/enable Flip-V for Multi-LUT and Multi-LUT-interior.
-    
-* Important texture replacers and replacers with plugins have been separated and placed under Misc Textures, now you can safely disable all the mods under the TexturePacks category to get some performance gain if needed.
-  
+
 ---
 
 * Press X while viewing a book to start playing its Audiobook.
