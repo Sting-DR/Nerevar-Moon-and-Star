@@ -15,10 +15,6 @@
       Enhanced Water for OpenMW 0.49-0.51 (install instructions inside the downloaded archive) -
   	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189
 
-      Debanded or Disabled Fog for OpenMW 0.48 and 0.49 (install instructions inside the downloaded archive) -
-      https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259
-  	  (Use disabled fog)
-
       Liam's Kitbashed PBR (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes -  
       https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688
       
