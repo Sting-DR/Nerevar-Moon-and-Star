@@ -142,7 +142,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/a40bfe8c04cb31ba2ea83b80bc3f5bd3df5b5c0d/InstallGuide.md)**.
+## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
 
 
 **A list of all included mods can be found here,**
