@@ -6,8 +6,7 @@
 
 * Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
 
-* Install OpenMW 0.51, this one seems to work fine with my list and should also help with performance gains - 
-      https://www.nexusmods.com/morrowind/mods/58699?tab=files&file_id=1000062789
+* Install the latest version of OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
 
 * Run the game through OpenMW once to generate necessary files.
 
@@ -34,7 +33,7 @@
 
 * Install modlist from Wabbajack.
 
-* If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folders.
+* If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add openmw-launcher.exe (not openmw.exe) from within your installed OpenMW folders.
 
 * DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
@@ -55,14 +54,12 @@
 
 * In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
+* Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
+
 * You can now finally actually play the game! However it is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further issues.
 
 
  ---
-
-* If the openmw.exe does not open directly try opening the openmwlauncher.exe.
-
-* Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two.
 
 * If Wareya's PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
