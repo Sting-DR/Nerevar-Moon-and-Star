@@ -136,9 +136,9 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 |---|---|
 | **Engine** | OpenMW 51.0 or later |
 | **DLCs** | Tribunal and Bloodmoon (both required) |
-| **Downloads** | ~43 GB |
-| **Installed** | ~64 GB |
-| **Total** | ~107 GB — downloaded archives can be deleted after installation |
+| **Downloads** | ~54 GB |
+| **Installed** | ~97 GB |
+| **Total** | ~151 GB — downloaded archives can be deleted after installation |
 
 ---
 
