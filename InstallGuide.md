@@ -40,19 +40,6 @@
 
 * Download and copy my [shaders.yaml](https://www.nexusmods.com/morrowind/mods/58569?tab=files) to "Users\Admin\Documents\My Games\OpenMW" and replace the existing one.
 
-* To disable enemy health bars since the mod Dynamic Reticle already covers it:
-
-      1. Find “mods\Simple HUD for OpenMW\mygui\openmw_hud.layout".
-      2. Open the file with a text editor
-      3. Find an element with a name EnemyHealth (name="EnemyHealth")
-      4. In the "position" property of that element - 3rd number is this element's length - set it to 0 to hide the element
-      e.g you might find an element that looks like this
-      <Widget type="ProgressBar" skin="MW_EnergyBar_Yellow" position="0 131 80 12" align="Center Bottom" name="EnemyHealth">
-          <Property key="Visible" value="false"/>
-      </Widget>
-
-      inside position = "..." change 80 to 0. Save the file.
-
 * In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
 * Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
@@ -97,14 +84,17 @@
 -  Animated Levitation :  
             SFX volume - 30
    
--  Attend me :  
-            enable hud - no (its hud feels immersion breaking at times, keep it enabled if it doesn't bother you. It also teleports your followers so don't disable it altogether just keep the hud hidden)
+-  Best Friends Forever :  
+            Adjust as you see fit
+
+-  Better Bars :
+            Adjust as you see fit
    
 -  Buff timers :  
             adjust hud to your liking and then disable the borders once you're done
    
 -  Friendly Autosave :  
-            adjust to your liking
+            Adjust as you see fit
    
 -  Daedra use bound equipment :  
             (I'd set chance of removing weapons to 80%)
