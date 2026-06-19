@@ -87,7 +87,7 @@
 -  Best Friends Forever :  
             Adjust as you see fit
 
--  Better Bars :
+-  Better Bars :  
             Adjust as you see fit
    
 -  Buff timers :  
