@@ -1,16 +1,16 @@
 ## INSTALLATION GUIDE
 
-* Create a new folder for the full setup. You can name it anything you prefer.
+**1.** Create a new folder for the full setup. You can name it anything you prefer.
 
-* Install Morrowind GOTY.
+**2.** Install Morrowind GOTY.
 
-* Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
+**3.** Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
 
-* Install the latest version of OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
+**4.** Install the latest version of OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
 
-* Run the game through OpenMW once to generate necessary files.
+**5.** Run the game through OpenMW once to generate necessary files.
 
-* Download and overwrite these files into the OpenMW folder -
+**6.** Download and overwrite these files into the OpenMW folder -
 
       Enhanced Water for OpenMW 0.49-0.51 (install instructions inside the downloaded archive) -
   	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189
@@ -30,21 +30,21 @@
 	  Edited lighting PBR settings file to use with NEMAS (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite) -
    	  https://www.nexusmods.com/morrowind/mods/58569?tab=files
 
-* Create folders to use as download and install directories.
+**7.** Create folders to use as download and install directories.
 
-* Install modlist from Wabbajack.
+**8.** Install modlist from Wabbajack.
 
-* If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add openmw-launcher.exe (not openmw.exe) from within your installed OpenMW folders.
+**9.** If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add openmw-launcher.exe (not openmw.exe) from within your installed OpenMW folders.
 
-* DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
+**10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-* Download and copy my [shaders.yaml](https://www.nexusmods.com/morrowind/mods/58569?tab=files) to "Users\Admin\Documents\My Games\OpenMW" and replace the existing one.
+**11.** Download and copy my [shaders.yaml](https://www.nexusmods.com/morrowind/mods/58569?tab=files) to "Users\Admin\Documents\My Games\OpenMW" and replace the existing one.
 
-* In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
+**12.** In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
 
-* Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
+**13.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
-* You can now finally actually play the game! However it is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further issues.
+**14.** You can now finally actually play the game! However it is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further issues.
 
 
  ---
