@@ -51,8 +51,6 @@
 
 * If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
-* Even though all the Tamriel Data races are available to choose from during character creation, it’s best to stick to the vanilla races from the base game if you want to minimize the chances of your playthrough bugging out. The new races haven’t been tested enough and are likely to run into issues sooner or later.
-
 * If you get a giant transparent box on the left side of the screen when you first start -
       open the Options menu while ingame > go to the scripts tab > select Buff Timers and click on the box next to Show Buff Borders to disable it. Once you create a character re-enable it later to adjust the box's location to your liking.
 
