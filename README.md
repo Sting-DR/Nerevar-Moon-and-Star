@@ -17,7 +17,7 @@ For **installation instructions** scroll to the bottom.
 
 ## Overview
 
-A visually and mechanically overhauled experience for returning and new players looking for a new adventure across Vvardenfell. 
+~1400 mods to visually and mechanically overhaul Vardenfell for returning and new players looking for a new adventure across Tamriel.
 
 All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
 
