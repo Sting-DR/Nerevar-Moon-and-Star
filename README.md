@@ -6,7 +6,7 @@
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
 ![Tamriel Rebuilt](https://img.shields.io/badge/Includes-Tamriel%20Rebuilt-informational)
-![~1000 Mods](https://img.shields.io/badge/Mods-~1000-informational)
+![~1400 Mods](https://img.shields.io/badge/Mods-~1000-informational)
 
 ---
 Try installing from Nexus incase the Wabbajack version fails.
@@ -29,7 +29,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Visuals
+## Some Highlights
 
 **Textures**
 - Morrowind Enhanced Textures 6.1
@@ -52,7 +52,6 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 **Combat**
 - N'Garde — Active Block and Parry
 - Bullseye
-- ReAnimation v2 Rogue
 - MercyCAO
 - SneakIsGoodNow
 
@@ -61,15 +60,11 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - Boss Overhaul — Dagoth Ur
 - Tribunal & Bloodmoon Rebalance
 - MDMD — More Deadly Morrowind Denizens
-- Improved Vanilla Leveling
 - Harder Better Faster Stronger (OpenMW)
 
 **Immersion & Character**
 - Sun's Dusk
-- Graphic Herbalism
-- Blight Storms Restored
 - Character Traits Framework
-- Tamriel Unlimited
 - Voice acting for a select few NPCs
 
 ---
@@ -81,35 +76,26 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - Solstheim: Tomb of the Snow Prince
 - Project Cyrodiil
 - Skyrim: Home of the Nords
-- Lyithdonea — The Azurian Isles
 - Windhelm - City of the Kings
-
-**Location Overhauls**
-- Kogoruhn — Extinct City of Ash and Sulfur
-- New Ilunibi
-- Of Eggs and Dwarves
-- Better Dunmer Strongholds
-- Dwemer Legacy Reforged - Arkngthunch-Sturdumz
-- Unholy Trinity
 
 ---
 
 ## Companions
 
 - Arvesa - An Armiger's Tale
-- M'Aiq Overhaul - Liar yes - Idiot no
 - Dras the Dunmer Legionnaire
+- Into the Void - Companion and Quests
+- Fons - Shapeshifting Bard Companion
+- Biz'Kuitz Blissful Mind - Alfiq Scholar Companion
 
 ---
 
 ## Factions & Story
 
 **Faction Additions**
-- Traitor among Vampires
 - RP House Hlaalu
 - Rise of House Telvanni
 - Magical Missions Recharged
-- Magically Thievish Thieves Guild
 - Fighters Guild Improved
 - Camonna Tong - Puppet Master
 - Morag Tong Polished
