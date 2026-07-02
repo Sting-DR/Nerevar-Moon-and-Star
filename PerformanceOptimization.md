@@ -4,15 +4,17 @@
 
 - **Reduce view distance** in the OpenMW launcher settings.
 
-- **Disable texture mods** — mods under the `TexturePacks` separator, especially the two Landscape Remastered mods, can cause heavy GPU load.
+- **Disable AA shaders** — press `F2` in-game to open the post-processing menu and disable both EdgeAA and SMAA.
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off.
+
+- **Disable texture mods** — mods under the `TexturePacks` separator, especially the two Landscape Remastered mods, can cause heavy GPU load.
 
 - **Disable grass/groundcover**
 ```
 Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover
 ```
-Scroll the list to see which groundcover plugins are active and disable as needed. If disabling any groundcover mod, also    disable both `groundcover.omwaddon` and `deleted_groundcover.omwaddon` in the plugin load order.
+All the active groundcover plugins are at around the top of the loadorder, disable as needed. If disabling any groundcover mod, also disable both `groundcover.omwaddon` and `deleted_groundcover.omwaddon` in the plugin load order if they are included.
 
 - **Reduce shadow distance and resolution**
 ```
