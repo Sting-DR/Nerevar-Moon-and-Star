@@ -6,7 +6,7 @@
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
 ![Tamriel Rebuilt](https://img.shields.io/badge/Includes-Tamriel%20Rebuilt-informational)
-![~1400 Mods](https://img.shields.io/badge/Mods-~1000-informational)
+![~1400 Mods](https://img.shields.io/badge/Mods-~1400-informational)
 
 ---
 Try installing from Nexus incase the Wabbajack version fails.
