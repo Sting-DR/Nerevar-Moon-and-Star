@@ -1,4 +1,4 @@
-![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/386a327ae5473f079a36dcd4f7f83b6b38b3bded/NEMASthumb.png)
+![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/1784b73a460d6b84ca14f083c8f0f484c6754352/NEMAS_thumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
 *An OpenMW Wabbajack Modlist · Vanilla++ · Overhaul*
