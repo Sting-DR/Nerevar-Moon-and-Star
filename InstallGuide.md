@@ -119,6 +119,6 @@
   			Require Closed Helmet - no
    
 -  QuickSelectUltimate :  
-		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
+		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish otherwise
   ---
 	
