@@ -69,7 +69,9 @@
 
 * Press X to bring up the OpenMW Quest Menu.
 
-* Press V to equip a Light sources you have.
+* Press V to equip any Light sources you have.
+
+* All locks are breakable by hitting them if you have enough strength.
   
 *Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
 -  RUN :  
