@@ -76,7 +76,7 @@
 *Check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking, notably the following* -
 -  RUN :  
             set key binding  
-            Maximum speed buff - 2000
+            Maximum speed buff - 1500
    
 -  Harder Better Faster Stronger :  
             Base Percent Diffculty Presets - Normal
