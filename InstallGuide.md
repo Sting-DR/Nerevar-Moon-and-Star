@@ -34,7 +34,7 @@
 
 **8.** Install modlist from Wabbajack.
 
-**9.** If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add openmw-launcher.exe (not openmw.exe) from within your installed OpenMW folders.
+**9.** If Mod Organizer 2 doesn't automatically detect your OpenMW installation then go to Modify Executables (In the top-right dropdown) and add openmw-launcher.exe (not openmw.exe) from within your installed OpenMW folder.
 
 **10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
