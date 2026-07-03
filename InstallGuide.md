@@ -6,7 +6,7 @@
 
 **3.** Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
 
-**4.** Install the latest version of OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
+**4.** Install OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
 
 **5.** Run the game through OpenMW once to generate necessary files.
 
