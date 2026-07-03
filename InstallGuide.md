@@ -118,7 +118,7 @@
 -  Protection from Sun Damage :  
   			Require Closed Helmet - no
    
--  QuickSelectUltimate :
+-  QuickSelectUltimate :  
 		    Hotbar Visibility mode - Never (if you don't want them showing on your screen), choose as you wish
   ---
 	
