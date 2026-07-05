@@ -68,6 +68,6 @@
   
 * All locks are breakable by hitting them if you have enough strength.
   
-* To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking *
+*To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
   ---
