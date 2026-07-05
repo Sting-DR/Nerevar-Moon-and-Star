@@ -106,9 +106,6 @@
             set keybinding  
    			Glancing blows (choose as you wish)
    
--  OpenMW Quest Menu :  
-  			set keybinding (since its default binding X conflicts with Audiobook play button you might want to change this)
-   
 -  Gothic Style Knockout :  
             if you notice npcs dying instead of getting knocked out when reaching 0 HP just try resetting or disabling and enabling the mod again
    
