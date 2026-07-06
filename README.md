@@ -93,6 +93,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 ## Factions & Story
 
 **Faction Additions**
+- Death and Taxes
 - RP House Hlaalu
 - Rise of House Telvanni
 - Magical Missions Recharged
