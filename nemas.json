@@ -18,21 +18,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMAS_thumb.png",
       "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
-      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_4.4.7.wabbajack_2b37ac33-d26e-4215-bb75-1c644aa57c83",
+      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_4.4.8.wabbajack_f9ada650-23c9-4bb4-a0f9-30d4e4571e87",
       "machineURL": "NerevarMoonAndStar",
       "discordURL": "https://discord.gg/nASA3evJSX",
       "websiteURL": "https://www.nexusmods.com/morrowind/mods/58569"
     },
     "download_metadata": {
-      "Hash": "3248/sW3gCA=",
-      "Size": 50143122,
-      "NumberOfArchives": 1461,
-      "SizeOfArchives": 60653761965,
-      "NumberOfInstalledFiles": 193404,
-      "SizeOfInstalledFiles": 108509843609,
-      "TotalSize": 169163605574
+      "Hash": "oUQ298iXRkI=",
+      "Size": 52792635,
+      "NumberOfArchives": 1462,
+      "SizeOfArchives": 60635830072,
+      "NumberOfInstalledFiles": 193633,
+      "SizeOfInstalledFiles": 109482600307,
+      "TotalSize": 170118430379
     },
-    "version": "4.4.7"
+    "version": "4.4.8"
   }
 ]
 
