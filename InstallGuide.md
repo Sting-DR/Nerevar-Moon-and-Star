@@ -6,21 +6,19 @@
 
 **3.** Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
 
-**5.** Run the game once to generate necessary ini files.
+**4.** Run the game once to generate necessary ini files.
 
-**7.** Create folders to use as download and install directories.
+**5.** Create folders to use as download and install directories.
 
-**8.** Install modlist from Wabbajack.
+**6.** Install modlist from Wabbajack.
 
-**9.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add openmw.exe from within the install folder->.OpenMW(0.51) .
+**7.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add openmw.exe from within the install folder->.OpenMW(0.51) .
 
-**10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
+**8.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-**11.** In the OpenMW launcher Data Files > Navigation Mesh Cache, click on Update. This will reduce stutter and loading times while playing.
+**9.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
-**12.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
-
-**13.** It is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further ones.
+**10.** It is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further ones.
 
 
  ---
@@ -50,6 +48,6 @@
 
 ---
 
-**7.** You are now free to actually play the game!
+**11.** You are now free to actually play the game!
 
   ---
