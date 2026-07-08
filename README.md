@@ -122,7 +122,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 | | |
 |---|---|
 | **Game** | Morrowind GOTY (Steam or GOG) |
-| **Wabbajack** | [Can use this Link](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) |
+| **Wabbajack** | Can use this [Link](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) |
 | **Downloads** | ~57 GB |
 | **Installed** | ~102 GB |
 | **Total** | ~159 GB — downloaded archives can be deleted after installation |
@@ -130,7 +130,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
+## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/4c2bf4eb413fff3726530443f17064757401348c/InstallGuide.md)**.
 
 
 **A list of all included mods can be found here,**
