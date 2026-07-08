@@ -12,23 +12,18 @@
 
 **6.** Download and overwrite these files into the OpenMW folder -
 
-      Enhanced Water for OpenMW 0.49-0.51 (install instructions inside the downloaded archive) -
-  	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189
+[Enhanced Water for OpenMW 0.49-0.51](https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189) (install instructions inside the downloaded archive).  
 
-	  Debanded or Disabled Fog for OpenMW 0.48 and 0.49 (install instructions inside the downloaded archive) -  
-  	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259
+[Debanded or Disabled Fog for OpenMW 0.48 and 0.49](https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259) (install instructions inside the downloaded archive).  
+(Use disabled fog).  
 
-  	  (Use disabled fog)
-
-      Liam's Kitbashed PBR (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes -  
-      https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688
+[Liam's Kitbashed PBR](https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688)
+ (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes.  
       
-	  Liam's Rafael Water Edits (follow install instructions as given inside and overwrite existing files) -  
-	  https://files.nexus-cdn.com/100/59113/Liam's Rafael Water Edits-59113-1-1779831917.zip?md5=jCkw6mxuMixP3rp0AG1OdQ&expires=1780011774&user_id=139364848
-      (Page Link if the above direct link does not work - https://www.nexusmods.com/morrowind/mods/59113?tab=files)
+[Liam's Rafael Water Edits](https://www.nexusmods.com/api/files/430496794289/download) (follow install instructions as given inside and overwrite existing files).  
 
-	  Edited lighting PBR settings file to use with NEMAS (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite) -
-   	  https://www.nexusmods.com/morrowind/mods/58569?tab=files
+[Edited lighting PBR settings file to use with NEMAS](https://www.nexusmods.com/morrowind/mods/58569?tab=files) (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite).
+
       
 **7.** Create folders to use as download and install directories.
 
