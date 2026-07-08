@@ -6,7 +6,7 @@
 ![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
 ![Tamriel Rebuilt](https://img.shields.io/badge/Includes-Tamriel%20Rebuilt-informational)
-![~1400 Mods](https://img.shields.io/badge/Mods-~1400-informational)
+![~1500 Mods](https://img.shields.io/badge/Mods-~1500-informational)
 
 ---
 Try installing from Nexus incase the Wabbajack version fails.
@@ -17,7 +17,7 @@ For **installation instructions** scroll to the bottom.
 
 ## Overview
 
-~1400 mods to visually and mechanically overhaul Vardenfell for returning and new players looking for a new adventure across Tamriel.
+~1500 mods to visually and mechanically overhaul Vardenfell for returning and new players looking for a new adventure across Tamriel.
 
 All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
 
@@ -130,7 +130,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/4c2bf4eb413fff3726530443f17064757401348c/InstallGuide.md)**.
+## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
 
 
 **A list of all included mods can be found here,**
