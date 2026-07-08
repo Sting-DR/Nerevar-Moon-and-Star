@@ -6,35 +6,13 @@
 
 **3.** Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
 
-**4.** Install OpenMW 0.51 from here - https://github.com/OpenMW/openmw/releases.
-
-**5.** Run the game through OpenMW once to generate necessary files.
-
-**6.** Download and overwrite these files into the OpenMW folder -
-
-      Enhanced Water for OpenMW 0.49-0.51 (install instructions inside the downloaded archive) -
-  	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189
-
-	  Debanded or Disabled Fog for OpenMW 0.48 and 0.49 (install instructions inside the downloaded archive) -  
-  	  https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259
-
-  	  (Use disabled fog)
-
-      Liam's Kitbashed PBR (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes -  
-      https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688
-      
-	  Liam's Rafael Water Edits (follow install instructions as given inside and overwrite existing files) -  
-	  https://files.nexus-cdn.com/100/59113/Liam's Rafael Water Edits-59113-1-1779831917.zip?md5=jCkw6mxuMixP3rp0AG1OdQ&expires=1780011774&user_id=139364848
-      (Page Link if the above direct link does not work - https://www.nexusmods.com/morrowind/mods/59113?tab=files)
-
-	  Edited lighting PBR settings file to use with NEMAS (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite) -
-   	  https://www.nexusmods.com/morrowind/mods/58569?tab=files
+**5.** Run the game once to generate necessary ini files.
 
 **7.** Create folders to use as download and install directories.
 
 **8.** Install modlist from Wabbajack.
 
-**9.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add openmw.exe from within your installed OpenMW folder.
+**9.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add openmw.exe from within the install folder->.OpenMW(0.51) .
 
 **10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
