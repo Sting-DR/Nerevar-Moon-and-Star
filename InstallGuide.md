@@ -16,9 +16,7 @@
 
 **8.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-**9.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
-
-**10.** Following are some keybinds and additional actions added:  
+**9.** Following are some keybinds and additional actions added:  
 
 
 * Press X while viewing a book to start playing its Audiobook (Audiobooks of Morrowind)
@@ -36,6 +34,8 @@
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
 ---
+
+**10.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
 **11.** You are now free to actually play the game!
 
