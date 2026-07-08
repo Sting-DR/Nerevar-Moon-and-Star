@@ -40,6 +40,7 @@
 
 **12.** Following are some **keybinds** and additional actions added:  
 
+---
 
 * Press **X** while viewing a book to start playing its Audiobook (*Audiobooks of Morrowind*)
 
