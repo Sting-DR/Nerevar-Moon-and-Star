@@ -23,12 +23,7 @@
 
  ---
 
-* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
-
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
-
-* If you encounter a green screen bug then refer to this -  
-      go in-game and press F2 to bring up the post-processing HUD, then disable/enable Flip-V for Multi-LUT and Multi-LUT-interior.
 
 ---
 
