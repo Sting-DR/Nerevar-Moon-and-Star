@@ -6,10 +6,10 @@
 installation is simple just copy over the files located in `sandboxed\extract into your OpenMW install` to inside your OpenMW install folder and choose to overwrite.
 
 - An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk.  
-(I'm not yet aware of any problems but its probable you would run into one or two)  
-Its however almost guaranteed to give results and will help with FPS improvement.  
-You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
-*Use this fork with Rubic0n for the best performance results*.
+  - I'm not yet aware of any problems but its probable you would run into one or two.  
+  - Its however almost guaranteed to give results and will help with FPS improvement.  
+  - You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
+  - *Use this fork with Rubic0n for the best performance results*.
 
 - **Reduce view distance** in the OpenMW launcher settings.
 
