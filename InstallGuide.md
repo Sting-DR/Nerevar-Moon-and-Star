@@ -36,7 +36,7 @@
 
 **10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-**11.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This will reduce stutter and loading times while playing.
+**11.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
 
 **12.** Following are some **keybinds** and additional actions added:  
 
