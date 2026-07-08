@@ -49,6 +49,8 @@
 
 * Press **Q** to toggle lock-on (*Dynamic camera*)
 
+* Press **C** to command followers depending on what you are looking at (*Follower Commands*)
+
 * Press **Left-Alt** to parry (*N'Garde*)
   
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
