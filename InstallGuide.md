@@ -61,6 +61,7 @@
 
 **14.** You are now free to actually play the game!
 
+*If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)*
 
  ---
 
