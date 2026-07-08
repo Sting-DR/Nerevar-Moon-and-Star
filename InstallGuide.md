@@ -23,7 +23,7 @@
 
 * Press N to Undress or dress back up instantly (Devilish Dress Undress Hotkey)
 
-* Press V to equip any Light sources you have ()
+* Press V to equip any Light sources you have (LightHotkey)
 
 * Press Q to toggle lock-on (Dynamic camera)
 
