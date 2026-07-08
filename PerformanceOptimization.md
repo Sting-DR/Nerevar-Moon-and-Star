@@ -2,7 +2,11 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
-- Install **Rubic0n - OpenMW Lua Go Vroom**, installation is simple just copy over the files located in "sandboxed\extract into your OpenMW install" to inside your OpenMW install folder and choose to overwrite.
+- Install **Rubic0n - OpenMW Lua Go Vroom** —  
+installation is simple just copy over the files located in `sandboxed\extract into your OpenMW install` to inside your OpenMW install folder and choose to overwrite.
+
+- An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk (I'm not yet aware of any problems but its probable you would run into one or two). Its however almost guaranteed to give results and will help with FPS improvement.
+- Use this fork with Rubic0n for the best performance results.
   
 - **Reduce view distance** in the OpenMW launcher settings.
 
@@ -12,32 +16,25 @@
 
 - **Disable texture mods** — mods under the `TexturePacks` separator, especially the two Landscape Remastered mods, can cause heavy GPU load.
 
-- **Disable grass/groundcover**
-```
-Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover
-```
+- **Reduce grass/groundcover** —  
+You can reduce groundcover density by going to -  
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Groundcover`  
+Adjust the values to your liking, reducing density and rendering distance should help.
+
+- **Disable grass/groundcover**  
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover`  
 All the active groundcover plugins are at around the top of the loadorder, disable as needed.  
 If disabling any groundcover mod, also disable `groundcover.omwaddon` from the same *OpenmwPlayer → Groundcover list*  and `deleted_groundcover.omwaddon` in the plugin load order if they are included.
 
-You can also choose to simply reduce groundcover by going to -  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Groundcover`
-Adjust the values to your liking.
-
-- **Reduce shadow distance and resolution**
-```
-Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows
-```
+- **Reduce shadow distance and resolution**  
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`  
 - `maximum shadow map distance` — try **4000**
 - `shadow map resolution` — try **1024**
 
-- **Disable normal maps**
-```
-Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders
-```
+- **Disable normal maps**  
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`  
 Disable both `auto use object normal maps` and `auto use terrain normal maps`.
 
 - **Reduce resolution** and use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to upscale and generate frames, or simply upscale.
-
-- An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk (I'm not yet aware of any problems but its probable you would run into one or two). Its however almost guaranteed to give results and will help with FPS improvement.
 
 ---
