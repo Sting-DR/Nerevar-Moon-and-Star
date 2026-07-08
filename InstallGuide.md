@@ -12,6 +12,8 @@
 
 **6.** Download and overwrite these files into the OpenMW folder -
 
+---
+
 *[Enhanced Water for OpenMW 0.49-0.51](https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000063189) (install instructions inside the downloaded archive).*  
 
 *[Debanded or Disabled Fog for OpenMW 0.48 and 0.49](https://www.nexusmods.com/morrowind/mods/53667?tab=files&file_id=1000055259) (install instructions inside the downloaded archive).  
@@ -24,6 +26,7 @@
 
 *[Edited lighting PBR settings file to use with NEMAS](https://www.nexusmods.com/morrowind/mods/58569?tab=files) (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite).*
 
+---
       
 **7.** Create folders to use as download and install directories.
 
