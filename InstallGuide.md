@@ -41,7 +41,6 @@
 **12.** Following are some **keybinds** and additional actions added:  
 
 ---
-
 * Press **X** while viewing a book to start playing its Audiobook (*Audiobooks of Morrowind*)
 
 * Press **N** to Undress or dress back up instantly (*Devilish Dress Undress Hotkey*)
