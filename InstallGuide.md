@@ -18,14 +18,8 @@
 
 **9.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
-**10.** It is important you read the following instructions to have a smooth experience and avoid encountering already addressed issues. Please make sure your problem is not listed below before reporting any further ones.
+**10.** Following are some keybinds and additional actions added:  
 
-
- ---
-
-* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
-
----
 
 * Press X while viewing a book to start playing its Audiobook (Audiobooks of Morrowind)
 
@@ -45,4 +39,9 @@
 
 **11.** You are now free to actually play the game!
 
-  ---
+
+ ---
+
+* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
+
+---
