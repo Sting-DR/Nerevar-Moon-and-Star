@@ -121,11 +121,12 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 | | |
 |---|---|
-| **Engine** | OpenMW 0.51 |
-| **DLCs** | Tribunal and Bloodmoon (both required) |
+| **Game** | Morrowind GOTY (Steam or GOG) |
+| **Wabbajack** | [Can use this Link](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) |
 | **Downloads** | ~57 GB |
 | **Installed** | ~102 GB |
 | **Total** | ~159 GB — downloaded archives can be deleted after installation |
+| **Soft Requirement** | A Nexus Premium Account |
 
 ---
 
