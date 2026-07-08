@@ -19,15 +19,15 @@
 **9.** Following are some keybinds and additional actions added:  
 
 
-* Press X while viewing a book to start playing its Audiobook (Audiobooks of Morrowind)
+* Press X while viewing a book to start playing its Audiobook (*Audiobooks of Morrowind*)
 
-* Press N to Undress or dress back up instantly (Devilish Dress Undress Hotkey)
+* Press N to Undress or dress back up instantly (*Devilish Dress Undress Hotkey*)
 
-* Press V to equip any Light sources you have (LightHotkey)
+* Press V to equip any Light sources you have (*LightHotkey*)
 
-* Press Q to toggle lock-on (Dynamic camera)
+* Press Q to toggle lock-on (*Dynamic camera*)
 
-* Press Left-Alt to parry (N'Garde)
+* Press Left-Alt to parry (*N'Garde*)
   
 * All locks are breakable by hitting them if you have enough strength (Brute Force)
   
