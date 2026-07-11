@@ -51,8 +51,14 @@
 
 * Press **C** to command followers depending on what you are looking at (*Follower Commands*)
 
+* Press **R** while hovering over an item in your inventory to equip/use it (*Inventory Extender*)
+
+* Press **Y** to bring up the Character Stats window (*Character Panel*)
+
+* Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
+
 * Press **Left-Alt** to parry (*N'Garde*)
-  
+
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
   
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
