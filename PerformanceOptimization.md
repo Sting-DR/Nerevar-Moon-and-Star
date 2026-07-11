@@ -2,7 +2,7 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
-- Install **Rubic0n - OpenMW Lua Go Vroom** —  
+- Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
 installation is simple just copy over the files located in `sandboxed\extract into your OpenMW install` to inside your OpenMW install folder and choose to overwrite.
 
 - An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk.  
