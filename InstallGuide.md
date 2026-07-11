@@ -24,7 +24,7 @@
       
 * *[Liam's Rafael Water Edits](https://www.nexusmods.com/api/files/430496794289/download) (follow install instructions as given inside and overwrite existing files).*  
 
-* *[Edited lighting PBR settings file to use with NEMAS](https://www.nexusmods.com/morrowind/mods/58569?tab=files) (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite).*
+* *[Edited Liam's Kitbashed PBR settings to use with NEMAS](https://www.nexusmods.com/morrowind/mods/58569?tab=files) (Paste it inside "OpenMW 0.51.0\resources\shaders\lib\light" and overwrite).*
 
 ---
       
