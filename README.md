@@ -1,119 +1,46 @@
 ![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/1784b73a460d6b84ca14f083c8f0f484c6754352/NEMAS_thumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
-*An OpenMW Wabbajack Modlist · Vanilla++ · Overhaul*
+*An OpenMW Wabbajack Overhaul Modlist*
 
-![OpenMW 51.0+](https://img.shields.io/badge/OpenMW-51.0%2B-informational)
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
-![Tamriel Rebuilt](https://img.shields.io/badge/Includes-Tamriel%20Rebuilt-informational)
 ![~1500 Mods](https://img.shields.io/badge/Mods-~1500-informational)
 
 ---
-Try installing from Nexus incase the Wabbajack version fails.
+Try installing from Nexus incase the Wabbajack version is outdated or fails.
 Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.  
 
 For **installation instructions** scroll to the bottom.
 
 
 ## Overview
+This is Morrowind the way I would like to replay it in the modern day. Every mod added in has been looked over by me for general incompatibilities and errors. The shader preset and lighting changes (thanks to the tool S3Lightfixes by S3ctorOMW) in particular have been tweaked over and over to achieve the result you can experience now and that I am satisfied with. 
 
-~1500 mods to visually and mechanically overhaul Vardenfell for returning and new players looking for a new adventure across Tamriel.
+## Visuals
+NEMAS has a heavy emphasis on visuals, resulting in a pretty hefty size requirement as of now. I have tried my best to optimize and avoid 4K textures in general (most are 1K or 2K) so it should still be around the best visual to performance ratio you can get with all these mods stacked together. Almost all of the textures make use of PBR lighting and have necessary texture maps included.
+ 
+## World Expansion
+Settlements have been enhanced by mods like Beautiful Cities of Morrowind, OAAB Grazelands and OAAB Tel Mora among many others which bring them a little closer to their actual scale in Vvardenfell.
 
-All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while main quest bosses are significantly harder. The list also includes **Tamriel Rebuilt**, **Project Cyrodiil**, and **Skyrim: Home of the Nords**.
-
-The new experience has been designed to be harder than vanilla. [HarderBetterFasterStronger](https://www.nexusmods.com/morrowind/mods/55542) is included for fine-grained difficulty control.
-
-Includes lore-friendly bug fixes and several mods to improve environmental storytelling, questing, gameplay, immersion, role-playing, dialogue etc.
-
-Most textures are paired with PBR specular and normal maps, giving surfaces genuine material depth under OpenMW's physically-based lighting. 
-
----
-
-## Some Highlights
-
-**Textures**
-- Morrowind Enhanced Textures 6.1
-- MVR PBR v2
-- OpenMW Landscape Remastered 2.0 - Parallax - PBR
-
-**Cities**
-- Beautiful Cities of Morrowind
-- Concept Art Palace
-- Immersive Mournhold
-- OAAB Grazelands
-- OAAB Tel Mora
-- Tel Fyr - A Village in Mourning
-- Hla Odai
-  
----
+The new landmass expansions Tamriel Rebuilt, Project Cyrodiil, and Skyrim: Home of the Nords are included to enhance role-playing and the questing experience. They feature several new factions and quests and more people to meet along in your journey.
 
 ## Gameplay & Mechanics
+Melee and Ranged Combat are expanded upon and overhauled by mods like N'Garde - Active Block and Parry and Bullseye - Marksman Overhaul among others. 
+Several new spells and Magic oriented balancing and enhancing mods are included with enhanced spell casting visuals to make them look more dynamic.
 
-**Combat**
-- N'Garde — Active Block and Parry
-- Bullseye
-- MercyCAO
-- SneakIsGoodNow
-
-**Difficulty & Balance**
-- Beware the Sixth House
-- Boss Overhaul — Dagoth Ur
-- Tribunal & Bloodmoon Rebalance
-- MDMD — More Deadly Morrowind Denizens
-- Harder Better Faster Stronger (OpenMW)
-
-**Immersion & Character**
-- Sun's Dusk
-- Character Traits Framework
-- Voice acting for a select few NPCs
-
----
-
-## World Expansion
-
-**Landmasses**
-- Tamriel Rebuilt — Grasping Fortune
-- Solstheim: Tomb of the Snow Prince
-- Project Cyrodiil
-- Skyrim: Home of the Nords
-- Windhelm - City of the Kings
-
----
-
-## Companions
-
-- Arvesa - An Armiger's Tale
-- Dras the Dunmer Legionnaire
-- Into the Void - Companion and Quests
-- Fons - Shapeshifting Bard Companion
-- Biz'Kuitz Blissful Mind - Alfiq Scholar Companion
-
----
+## Difficulty & Balance
+All of the main game content has been rebalanced. DLC difficulty is brought in line with the base game while late main quest bosses are significantly harder. Additionally HarderBetterFasterStronger (HBFS) is included for needed difficulty tuning.
 
 ## Factions & Story
+Most Faction experiences have been touched up with better role-playing choices and better rewards with additional quest additions, including brand new lore-friendly Factions introduced through large scale quest mods like Death and Taxes.
 
-**Faction Additions**
-- Death and Taxes
-- RP House Hlaalu
-- Rise of House Telvanni
-- Magical Missions Recharged
-- Fighters Guild Improved
-- Camonna Tong - Puppet Master
-- Morag Tong Polished
-- Lost Relics of the Temple
-- OAAB Juniper's Twin Lamps
+## Companions
+Accompanying you on your journey will be new companions with actual personalities and personal stories that you will be allowed to take part in and shape. They include many popular ones like Arvesa - An Armiger's Tale, Dras the Dunmer Legionnaire, Into the Void - Companion and Quests, Fons - Shapeshifting Bard Companion and Biz'Kuitz Blissful Mind - Alfiq Scholar Companion among a few others.
 
-
-**Quests**
-- God of Worms - Succession
-- The Garden of Dreams
-- Vivec Lighthouse Keeper - Questline
-- Red Wisdom - An Ashlander Prophecy
-- Beyond the Firmament
-- The Wizard's Affair
-- Aspect of Azura
-
- And many more.
+## Immersion & Character
+Immerse yourself better in the world with Sun's Dusk - Needs and Survival which introduces survival mechanics and needs you to eat, drink, sleep, bathe, and dress appropriately (all configurable as per personal choice). 
+ 
+Lastly Character Creation has also been supplemented with alternate start choices and several additions to your back story through mods like Basic Chargen - Alternate Start and Character Traits Framework.
 
 ---
 
@@ -130,7 +57,7 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 
 ---
 
-## Please follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
+## Follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
 
 
 **A list of all included mods can be found here,**
@@ -141,8 +68,5 @@ Most textures are paired with PBR specular and normal maps, giving surfaces genu
 - [NEMAS](https://discord.gg/nASA3evJSX)
 
 ---
-
-> Difficulty is higher than vanilla. Adjust the in-game slider or HarderBetterFasterStronger settings at any time.
-
----
-*All mods remain the property of their respective authors.*
+*Please take the time to endorse the individual mods featured in NEMAS. Their contribution to the world of Morrowind is invaluable.
+Endorsements for NEMAS are appreciated :)*
