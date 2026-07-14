@@ -62,7 +62,7 @@ Lastly Character Creation has also been supplemented with alternate start choice
 ## Follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
 
 
-**A list of all included mods can be found here,**
+**A spreadsheet of all included mods can be found here,**
 - [ModlistSheet](https://drive.google.com/drive/folders/1WlrjF5nL_Fo5pq_-IuDnhDI-0FMiKrXC?usp=sharing)
 - [Load Order Library](https://loadorderlibrary.com/lists/nerevar-moon-and-star)  
 
