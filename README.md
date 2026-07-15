@@ -52,9 +52,9 @@ Lastly Character Creation has also been supplemented with alternate start choice
 |---|---|
 | **Game** | Morrowind GOTY (Steam or GOG) |
 | **Wabbajack** | Can use this [Link](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) |
-| **Downloads** | ~57 GB |
-| **Installed** | ~102 GB |
-| **Total** | ~159 GB — downloaded archives can be deleted after installation |
+| **Downloads** | ~50 GB |
+| **Installed** | ~98 GB |
+| **Total** | ~148 GB — downloaded archives can be deleted after installation |
 | **Soft Requirement** | A Nexus Premium Account |
 
 ---
