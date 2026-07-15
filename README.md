@@ -60,7 +60,7 @@ Lastly Character Creation has also been supplemented with alternate start choice
 ---
 
 ## Follow this **[Install Guide](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/InstallGuide.md)**.
-
+## For Linux users darkbasic was kind enough to make a **[Video Tutorial]**(https://www.youtube.com/watch?v=QZeNpm9pRis).
 
 **A spreadsheet of all included mods can be found here,**
 - [ModlistSheet](https://drive.google.com/drive/folders/1WlrjF5nL_Fo5pq_-IuDnhDI-0FMiKrXC?usp=sharing)
