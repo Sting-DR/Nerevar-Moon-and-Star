@@ -55,14 +55,11 @@
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
-* Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly.
+* Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
  
 * Press **Left-Alt** to parry (*N'Garde*)
 
-* All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap.  
- from the page for (OpenMW) Hidden Traps,  
-"For instance, 50 Security and 50 Agility give you a 43% chance of revealing a trap. If the option 'Probe Always Reveals' is disabled, probes give you a better chance of revealing a trap instead of outright exposing it.  
-  Masters of magic can learn spells used in traps (configurable, can be disabled)."  
+* All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
   
