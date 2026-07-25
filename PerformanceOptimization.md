@@ -11,7 +11,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
   - You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
   - *Use this fork with Rubic0n for the best performance results*.
 
-- **Reduce view distance** in the OpenMW launcher settings.
+- **Adjust view distance** in the in-game script settings for Horiz0n.
 
 - **Disable AA shaders** — press `F2` in-game to open the post-processing menu and disable both EdgeAA and SMAA.
 
@@ -19,6 +19,8 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Overwrite heavy texture mods** — Move `Morrowind Enhanced Textures 6.1` to the very bottom of the load order,  
 this is the lightest of the HD texture packs and having it overwrite all the others should help with performance.
+
+- **Disable HarderBetterFasterStronger** — disable the plugin HBFS.esp
 
 - **Reduce grass/groundcover** —  
 You can reduce groundcover density by going to -  
