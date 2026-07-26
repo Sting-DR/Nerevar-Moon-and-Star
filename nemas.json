@@ -1,7 +1,7 @@
 [
   {
     "title": "Nerevar Moon-and-Star",
-    "description": "~1500 mods to visually and mechanically overhaul Vardenfell for returning and new players looking for a new adventure across Tamriel.",
+    "description": "Choose between either a Vanilla+ profile with only visual improvements and Project Tamriel additions, or a ~1500 Overhaul mod package that visually and mechanically enhances Vardenfell for returning and new players alike.",
     "author": "StingDR",
     "maintainers": [
       "github/Sting-DR"
@@ -9,7 +9,6 @@
     "game": "morrowind",
     "official": false,
     "tags": [
-      "Combat Overhaul",
       "Vanilla+"
     ],
     "nsfw": false,
@@ -18,21 +17,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMAS_thumb.png",
       "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
-      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_4.7.wabbajack_a7d10864-f815-4153-b676-6f15055e82ad",
+      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_4.7.1.wabbajack_6cf328cd-0a6e-46fb-aafe-eae9a560636b",
       "machineURL": "NerevarMoonAndStar",
       "discordURL": "https://discord.gg/nASA3evJSX",
       "websiteURL": "https://www.nexusmods.com/morrowind/mods/58569"
     },
     "download_metadata": {
-      "Hash": "9wkK+SguTZY=",
-      "Size": 44626780,
-      "NumberOfArchives": 1572,
-      "SizeOfArchives": 53072318310,
-      "NumberOfInstalledFiles": 194630,
-      "SizeOfInstalledFiles": 104240754916,
-      "TotalSize": 157313073226
+      "Hash": "z3r10cS3+S4=",
+      "Size": 71348790,
+      "NumberOfArchives": 1576,
+      "SizeOfArchives": 53041422749,
+      "NumberOfInstalledFiles": 195045,
+      "SizeOfInstalledFiles": 104306978035,
+      "TotalSize": 157348400784
     },
-    "version": "4.7"
+    "version": "4.7.1"
   }
 ]
 
