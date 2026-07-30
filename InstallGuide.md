@@ -53,6 +53,8 @@
 
 * Press **Y** to bring up the Character Stats window (*Character Panel*)
 
+* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
+
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
