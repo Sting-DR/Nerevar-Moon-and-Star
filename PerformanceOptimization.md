@@ -11,7 +11,8 @@ installation is simple just copy over the files located in `sandboxed\extract in
   - You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
   - *Use this fork with Rubic0n for the best performance results*.
 
-- **Adjust view distance** in the in-game script settings for Horiz0n.
+- **Reduce view distance**  
+  Alternatively you can use [Horiz0n](https://www.nexusmods.com/morrowind/mods/59668) which dynamically adjusts your view distance based on your performance.
 
 - **Disable AA shaders** — press `F2` in-game to open the post-processing menu and disable both EdgeAA and SMAA.
 
