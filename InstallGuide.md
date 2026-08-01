@@ -58,7 +58,9 @@
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
- 
+
+* Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
+
 * Press **Left-Alt** to parry (*N'Garde*)
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
