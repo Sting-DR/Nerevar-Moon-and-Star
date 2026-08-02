@@ -36,9 +36,15 @@
 
 **11.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
 
-**12.** Following are some **keybinds** and additional actions added:  
+**12.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
+**13.** You are now free to play the game however without reading the following guide down below you will be confused by a lot of the added features so please continue reading.
+
+*If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)*.
 ---
+
+### Following are some **keybinds** and additional actions added:  
+
 * Press **U** to Toggle Photo Mode  (*Photo Mode for OpenMW*)
 
 * Press **N** to Undress or dress back up instantly (*Devilish Dress Undress Hotkey*)
@@ -66,18 +72,34 @@
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
-  
+
+* Loitering around at night time in cities is prohibited, allowed only if you carry a light source with you (Night Patrol)
+
+* Necromancy in most cities is prohibited.
+
+* You take a portion of the damage dealt to each Daedra you summon. Higher Conjuration skill reduces this unblockable damage.
+
+* The Open spell no longer automatically unlocks doors or containers. Instead, it buffs your Security, but the mental strain drains your Fatigue. You need Security of at least 15 to understand how to exploit this.  
+
+The three above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
+
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
 ---
+### Misaligned HUD  
 
-**13.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
-
-**14.** You are now free to actually play the game!
-
-*If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)*.
+If you are playing with any resolution other than 1080p you'll likely come across some of the HUD elements spread out weirdly on your screen.  
+They can be easily adjusted through messing with the following script settings -  
+- HUD Weapon Charge (enable Better Bars compatibility)
+- TimeHUD
+- LocationHUD
+- BuffTimers for OpenMW
+- Ammo Count HUD
+- Nearby Doors (OpenMW)
+- Sun's Dusk HUD (can be dragged around when the game is paused)
 
  ---
+### Shaders not working properly  
 
 * If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
