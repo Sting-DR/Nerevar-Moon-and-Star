@@ -14,9 +14,12 @@ For **installation instructions** scroll to the bottom.
 
 
 ## Overview
-This is Morrowind the way I would like to replay it in the modern day. Every mod added in has been looked over by me for general incompatibilities and errors.  
-The shader preset and lighting changes (thanks to the tool **S3Lightfixes** by S3ctorOMW) in particular have been tweaked over and over to achieve the result you can experience now and that I am satisfied with. 
 
+The main fully overhauled 1500-mod package is still intact, with the addition of a new Vanilla+ profile. Aside from being visually identical to the main overhaul profile, it only touches up on the most basic/necessary QOL improvements and Landmass mods (all three PT+TR additions).
+
+This means you're free to use the Vanilla+ profile as a base and add new mods as you see fit, with minimal to no conflicts. Or play it as it is.
+
+This is Morrowind the way I would like to replay it in the modern day. Every mod added in has been looked over by me for general incompatibilities and errors. The shader preset and lighting changes (thanks to the tool S3Lightfixes by S3ctorOMW) in particular have been tweaked over and over to achieve the result you can experience now and that I am satisfied with.
 ## Visuals
 NEMAS has a heavy emphasis on visuals, resulting in a pretty hefty size requirement as of now. I have tried my best to optimize and avoid 4K textures in general (most are 1K or 2K) so it should still be around the best visual to performance ratio you can get with all these mods stacked together.  
 Almost all of the textures make use of **PBR lighting** and have necessary texture maps included.
