@@ -18,8 +18,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off.
 
-- **Install Medium Quality Landscape Textures** —  
-Install [Optimized SaintJ'S Landscape Remastered 2.0](https://www.nexusmods.com/morrowind/mods/58569?tab=files) from the Optional files.  
+- **Install Medium Quality Landscape Textures** — Install [Optimized SaintJ'S Landscape Remastered 2.0](https://www.nexusmods.com/morrowind/mods/58569?tab=files) from the Optional files.  
 Keep it at the very bottom of the load order.  
 
 - **Disable HarderBetterFasterStronger** — disable the plugin HBFS.esp
