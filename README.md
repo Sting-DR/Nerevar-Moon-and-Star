@@ -1,14 +1,13 @@
 ![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/1784b73a460d6b84ca14f083c8f0f484c6754352/NEMAS_thumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
-*An OpenMW Wabbajack Overhaul Modlist*
+*NEMAS now comes with t-w-o profiles!*
 
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
 ![~1500 Mods](https://img.shields.io/badge/Mods-~1500-informational)
 
 ---
-Try installing from Nexus incase the Wabbajack version is outdated or fails.
-Link to [Nexus](https://www.nexusmods.com/morrowind/mods/58569) page.  
+Try installing from [Nexus](https://www.nexusmods.com/morrowind/mods/58569) incase the Wabbajack version is outdated or fails. 
 
 For **installation instructions** scroll to the bottom.
 
@@ -55,9 +54,9 @@ Lastly Character Creation has also been supplemented with alternate start choice
 |---|---|
 | **Game** | Morrowind GOTY (Steam or GOG) |
 | **Wabbajack** | Can use this [Link](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) |
-| **Downloads** | ~50 GB |
-| **Installed** | ~98 GB |
-| **Total** | ~148 GB — downloaded archives can be deleted after installation |
+| **Downloads** | ~51 GB |
+| **Installed** | ~102 GB |
+| **Total** | ~154 GB — downloaded archives can be deleted after installation |
 | **Soft Requirement** | A Nexus Premium Account |
 
 ---
