@@ -86,7 +86,7 @@ The three above settings can be toggled off/on through Sane Magic Overhaul's scr
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
 ---
-### Misaligned HUD  
+### Misaligned HUD:  
 
 If you are playing with any resolution other than 1080p you'll likely come across some of the HUD elements spread out weirdly on your screen.  
 They can be easily adjusted through messing with the following script settings -  
@@ -99,7 +99,7 @@ They can be easily adjusted through messing with the following script settings -
 - Sun's Dusk HUD (can be dragged around when the game is paused)
 
  ---
-### Shaders not working properly  
+### Shaders not working properly:  
 
 * If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
