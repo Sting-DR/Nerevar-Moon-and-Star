@@ -19,11 +19,12 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off.
 
-- **Install [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)**.    
-Keep it right under **Project Atlas Meshes** in the load order.
+- **Install [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)**.   
+    Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
+    Keep it right under **Project Atlas Meshes** in the load order.
 
 - **Install [Optimized SaintJ'S Landscape Remastered 2.0](https://www.nexusmods.com/morrowind/mods/58569?tab=files)** from the Optional files.  
-Keep it at the very bottom of the load order.  
+    Keep it at the very bottom of the load order.  
 
 - **Reduce grass/groundcover** —  
 You can reduce groundcover density by going to -  
