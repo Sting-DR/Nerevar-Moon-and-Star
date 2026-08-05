@@ -10,6 +10,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
   - Its however almost guaranteed to give results and will help with FPS improvement.  
   - You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
   - *Use this fork with Rubic0n for the best performance results*.
+- There is a new version of FreeFPS available [here](https://www.nexusmods.com/morrowind/mods/59700), however I haven't bothered testing it.
 
 - **Reduce view distance**  
   Alternatively you can use [Horiz0n](https://www.nexusmods.com/morrowind/mods/59668) which dynamically adjusts your view distance based on your performance.
