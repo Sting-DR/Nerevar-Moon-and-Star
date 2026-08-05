@@ -111,10 +111,10 @@ They can be easily adjusted through messing with the following script settings -
 ### Automatically Disabled Plugins
 
 - When loading up your game if you happen to come across the issue of having multiple plugins disabled all you have to do is try 
-  unchecking and checking back a random esp in the load order from mo2.
-  
+  unchecking and checking back a random esp in the load order from mo2.  
+    
   That should sync up your mo2 load order and openmw enabled esps again.
 
-- If the plugins are somehow disabled in MO2 itself,
+- If the plugins are somehow disabled in MO2 itself,  
   Right click on any plugin and select enable all.
   Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
