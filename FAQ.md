@@ -1,9 +1,9 @@
 ## FAQ
-- [New keybinds for added actions](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#new-keybinds-for-added-actions-1)
-- [Notable Gameplay and Balance Changes](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#notable-gameplay-and-balance-changes-1)
-- [Misaligned HUD](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#misaligned-hud-1)
-- [OpenMW Crash / Shaders not working properly](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#openmw-crash--shaders-not-working-properly)
-- [Automatically Disabled Plugins](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#automatically-disabled-plugins-1)
+- [New keybinds for added actions](#new-keybinds-for-added-actions)
+- [Notable Gameplay and Balance Changes](#notable-gameplay-and-balance-changes)
+- [Misaligned HUD](#misaligned-hud)
+- [OpenMW Crash / Shaders not working properly](#openmw-crash--shaders-not-working-properly)
+- [Automatically Disabled Plugins](#automatically-disabled-plugins)
 ---
 
 ### New keybinds for added actions:  
