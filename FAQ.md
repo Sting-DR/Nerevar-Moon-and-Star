@@ -71,6 +71,6 @@ They can be easily adjusted through messing with the following script settings -
   That should sync up your mo2 load order and openmw enabled esps again.
 
 - If the plugins are somehow disabled in MO2 itself,  
-  Right click on any plugin and select enable all.  
+  Right click on any plugin and select enable all.   
   Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
 ---
