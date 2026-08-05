@@ -49,8 +49,8 @@ They can be easily adjusted through messing with the following script settings -
 - BuffTimers for OpenMW
 - Ammo Count HUD
 - Nearby Doors (OpenMW)
-- Sun's Dusk HUD (can be dragged around when the game is paused)
-- Best Friends Forever
+- Sun's Dusk: UI (can be dragged around when the game is paused)
+- Best Friends Forever: HUD
 
  ---
 ### Shaders not working properly:  
