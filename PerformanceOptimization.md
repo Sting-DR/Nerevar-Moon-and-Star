@@ -21,8 +21,6 @@ installation is simple just copy over the files located in `sandboxed\extract in
 - **Install Medium Quality Landscape Textures** — Install [Optimized SaintJ'S Landscape Remastered 2.0](https://www.nexusmods.com/morrowind/mods/58569?tab=files) from the Optional files.  
 Keep it at the very bottom of the load order.  
 
-- **Disable HarderBetterFasterStronger** — disable the plugin HBFS.esp
-
 - **Reduce grass/groundcover** —  
 You can reduce groundcover density by going to -  
 `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Groundcover`  
