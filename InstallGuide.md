@@ -59,8 +59,6 @@
 
 * Press **Y** to bring up the Character Stats window (*Character Panel*)
 
-* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
-
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
@@ -97,6 +95,7 @@ They can be easily adjusted through messing with the following script settings -
 - Ammo Count HUD
 - Nearby Doors (OpenMW)
 - Sun's Dusk HUD (can be dragged around when the game is paused)
+- Best Friends Forever
 
  ---
 ### Shaders not working properly:  
@@ -109,3 +108,13 @@ They can be easily adjusted through messing with the following script settings -
       go in-game and press F2 to bring up the post-processing HUD, then disable/enable Flip-V for Multi-LUT and Multi-LUT-interior.
 
 ---
+### Automatically Disabled Plugins
+
+- When loading up your game if you happen to come across the issue of having multiple plugins disabled all you have to do is try 
+  unchecking and checking back a random esp in the load order from mo2.
+  
+  That should sync up your mo2 load order and openmw enabled esps again.
+
+- If the plugins are somehow disabled in MO2 itself,
+  Right click on any plugin and select enable all.
+  Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
