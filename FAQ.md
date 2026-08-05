@@ -1,4 +1,11 @@
-### Following are some **keybinds** and additional actions added:  
+## FAQ
+1. ### New keybinds for added actions
+2. ### Notable Gameplay and Balance Changes
+3. ### Misaligned HUD
+4. ### Shaders not working properly
+5. ### Automatically Disabled Plugins
+
+### New keybinds for added actions:  
 
 * Press **U** to Toggle Photo Mode  (*Photo Mode for OpenMW*)
 
@@ -21,6 +28,8 @@
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
 * Press **Left-Alt** to parry (*N'Garde*)
+
+### Notable Gameplay and Balance Changes:
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
@@ -54,6 +63,14 @@ They can be easily adjusted through messing with the following script settings -
 
  ---
 ### Shaders not working properly:  
+
+* If your OpenMW.exe crashes on start with the text,   
+
+OpenMW: Fatal error
+failed initializing shader: objects
+
+This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.  
+Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
 
 * If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
