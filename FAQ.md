@@ -1,9 +1,9 @@
 ## FAQ
-1. ### New keybinds for added actions
-2. ### Notable Gameplay and Balance Changes
-3. ### Misaligned HUD
-4. ### Shaders not working properly
-5. ### Automatically Disabled Plugins
+#### [New keybinds for added actions](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#new-keybinds-for-added-actions-1)
+#### [Notable Gameplay and Balance Changes](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#notable-gameplay-and-balance-changes-1)
+#### [Misaligned HUD](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md#misaligned-hud-1)
+#### [Shaders not working properly]()
+#### [Automatically Disabled Plugins]()
 
 ### New keybinds for added actions:  
 
@@ -28,6 +28,7 @@
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
 * Press **Left-Alt** to parry (*N'Garde*)
+---
 
 ### Notable Gameplay and Balance Changes:
 
@@ -62,15 +63,15 @@ They can be easily adjusted through messing with the following script settings -
 - Best Friends Forever: HUD
 
  ---
-### Shaders not working properly:  
+### OpenMW Crash / Shaders not working properly:  
 
 * If your OpenMW.exe crashes on start with the text,   
 
-OpenMW: Fatal error
-failed initializing shader: objects
-
-This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.  
-Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
+  OpenMW: Fatal error
+  failed initializing shader: objects   
+  
+  This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.   
+  Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
 
 * If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
 
