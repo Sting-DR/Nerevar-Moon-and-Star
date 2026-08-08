@@ -24,6 +24,8 @@
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
+* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
+ 
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
 
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
