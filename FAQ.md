@@ -78,9 +78,8 @@ They can be easily adjusted through messing with the following script settings -
 
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
 
-* If you encounter a green screen bug then refer to this -  
-      go in-game and press F2 to bring up the post-processing HUD, then disable/enable Flip-V for Multi-LUT and Multi-LUT-interior.
-
+* If you encounter a green/cyan screen bug then you're probably launching the game through the Openmw-launcher.exe instead of Openmw.exe   
+  
 ---
 ### Automatically Disabled Plugins
 
