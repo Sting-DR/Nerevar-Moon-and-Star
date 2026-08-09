@@ -23,8 +23,6 @@
 * Press **Y** to bring up the Character Stats window (*Character Panel*)
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
-
-* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
  
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
 
@@ -34,6 +32,8 @@
 ---
 
 ### Notable Gameplay and Balance Changes:
+
+* **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in Sun's Dusk: Primary Needs.
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
@@ -63,7 +63,7 @@ They can be easily adjusted through messing with the following script settings -
 - Ammo Count HUD
 - Nearby Doors (OpenMW)
 - Sun's Dusk: UI (can be dragged around when the game is paused)
-- Best Friends Forever: HUD
+- Best Friends Forever: HUD (follower HUD that only appears when you have a companion in your party)
 
  ---
 ### OpenMW Crash / Shaders not working properly:  
