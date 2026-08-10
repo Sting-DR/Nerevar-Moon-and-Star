@@ -26,6 +26,8 @@
  
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
 
+* Press **Shift + F** to dispose of a body while looking at its inventory (*Quickloot*)
+ 
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
 * Press **Left-Alt** to parry (*N'Garde*)
@@ -34,6 +36,9 @@
 ### Notable Gameplay and Balance Changes:
 
 * **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
+
+* All keys you pick up are automatically added to the **Keychain** in your inventory for easier management and usage.  
+However if you come across any quest that relies on a specific key in your inventory that needs to be handed over or used by another character then you will have to open the Keychain and drag the required key to inside your inventory.
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
