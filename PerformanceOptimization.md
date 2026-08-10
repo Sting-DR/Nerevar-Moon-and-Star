@@ -19,6 +19,8 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off.
 
+- Try playing around with disabling shaders in general and see if that helps performance, however **don't completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
+
 - **Install [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)**.   
     Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
     Keep it right under **Project Atlas Meshes** in the load order.
