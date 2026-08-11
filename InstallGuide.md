@@ -47,7 +47,7 @@
 2. Select **All-Mods->Expand-All**.
 3. Now while any one of the mods is selected on the left pane, press **Ctrl + A**.
 4. While all the mods in the load order are selected now, right-click on any one of them and select **Endorse**.
-5. This can take at most 2-3 mins, ignore any errors you see on-screen while this is happening.
+5. This can take at most 3-4 mins, ignore any errors you see on-screen while this is happening.
 6. Thanks for taking your time to endorse all the fellow authors.
 ---
 **If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)**.
