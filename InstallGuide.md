@@ -38,7 +38,7 @@
 
 **12.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
-**13.** You are now free to play the game however without reading the **[FAQ](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/FAQ.md)** you will be confused by a lot of the added features and fixes for known problems you might be having.   
+**13.** You are now free to play the game however without reading the **[FAQ](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md)** you will be confused by a lot of the added features and fixes for known problems you might be having.   
 
 **P.S. Make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2**
 ---
