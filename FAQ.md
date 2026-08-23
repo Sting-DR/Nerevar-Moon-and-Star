@@ -37,6 +37,8 @@
 
 * **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
 
+* **Faction Favored Skills and Attributes** have been changed, check the mod-page for [Better Faction Favored Skills and Attributes](https://www.nexusmods.com/morrowind/mods/59168) to find the new joining requirements.
+
 * All keys you pick up are automatically added to the **Keychain** in your inventory for easier management and usage.  
 However if you come across any quest that relies on a specific key in your inventory that needs to be handed over or used by another character then you will have to open the Keychain and drag the required key to inside your inventory.
 
