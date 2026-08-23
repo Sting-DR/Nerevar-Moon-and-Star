@@ -46,13 +46,13 @@ However if you come across any quest that relies on a specific key in your inven
 
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
 
-* Loitering around at night time in cities is prohibited, allowed only if you carry a light source with you (Night Patrol)
+* **Loitering around at night time in cities is prohibited**, allowed only if you carry a light source with you (Night Patrol)
 
-* Necromancy in most cities is prohibited.
+* **Necromancy is prohibited** in most cities.
 
-* You take a portion of the damage dealt to each Daedra you summon. Higher Conjuration skill reduces this unblockable damage.
+* You **take a portion of the damage dealt to each Daedra you summon**. Higher Conjuration skill reduces this unblockable damage.
 
-* The Open spell no longer automatically unlocks doors or containers. Instead, it buffs your Security, but the mental strain drains your Fatigue. You need Security of at least 15 to understand how to exploit this.  
+* The **Open spell no longer automatically unlocks** doors or containers. Instead, it buffs your Security, but the mental strain drains your Fatigue. You need Security of at least 15 to understand how to exploit this.  
 
 The three above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
 
