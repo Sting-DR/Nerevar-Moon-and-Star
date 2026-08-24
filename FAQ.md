@@ -14,13 +14,13 @@
   failed initializing shader: objects   
   
   This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.   
-  Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
+  *Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.*
 
-* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
+* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a **green/blue glow.**
 
 * If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
 
-* If you encounter a green/cyan screen bug then you're probably launching the game through the Openmw-launcher.exe instead of Openmw.exe   
+* If you encounter a **green/cyan screen bug** then you're probably *launching the game through the Openmw-launcher.exe instead of Openmw.exe*
   
 ---
 ### Automatically Disabled Plugins
