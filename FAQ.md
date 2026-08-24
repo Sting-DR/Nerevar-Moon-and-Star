@@ -35,6 +35,8 @@
 
 ### Notable Gameplay and Balance Changes:
 
+* **Game Difficulty** can be adjusted using the script settings in-game for **Harder Better Faster Stronger (HBFS)**
+
 * **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
 
 * **Faction Favored Skills and Attributes** have been changed, check the mod-page for [Better Faction Favored Skills and Attributes](https://www.nexusmods.com/morrowind/mods/59168) to find the new joining requirements.
