@@ -35,7 +35,7 @@
 
 ### Notable Gameplay and Balance Changes:
 
-* **Game Difficulty** can be adjusted using the script settings in-game for **Harder Better Faster Stronger (HBFS)**
+* **Game Difficulty** can be adjusted using the script settings in-game for *Harder Better Faster Stronger (HBFS)*
 
 * **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
 
