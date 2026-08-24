@@ -1,9 +1,38 @@
 ## FAQ
+- [OpenMW Crash / Shaders not working properly](#openmw-crash--shaders-not-working-properly)
+- [Automatically Disabled Plugins](#automatically-disabled-plugins)
 - [New keybinds for added actions](#new-keybinds-for-added-actions)
 - [Notable Gameplay and Balance Changes](#notable-gameplay-and-balance-changes)
 - [Misaligned HUD](#misaligned-hud)
-- [OpenMW Crash / Shaders not working properly](#openmw-crash--shaders-not-working-properly)
-- [Automatically Disabled Plugins](#automatically-disabled-plugins)
+---
+
+### OpenMW Crash / Shaders not working properly:  
+
+* If your OpenMW.exe crashes on start with the text,   
+
+  OpenMW: Fatal error
+  failed initializing shader: objects   
+  
+  This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.   
+  Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
+
+* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
+
+* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
+
+* If you encounter a green/cyan screen bug then you're probably launching the game through the Openmw-launcher.exe instead of Openmw.exe   
+  
+---
+### Automatically Disabled Plugins
+
+- When loading up your game if you happen to come across the issue of having multiple plugins disabled all you have to do is try 
+  unchecking and checking back a random esp in the load order from mo2.  
+    
+  That should sync up your mo2 load order and openmw enabled esps again.
+
+- If the plugins are somehow disabled in MO2 itself,  
+  Right click on any plugin and select enable all.   
+  Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
 ---
 
 ### New keybinds for added actions:  
@@ -77,31 +106,3 @@ They can be easily adjusted through messing with the following script settings -
 - Best Friends Forever: HUD (follower HUD that only appears when you have a companion in your party)
 
  ---
-### OpenMW Crash / Shaders not working properly:  
-
-* If your OpenMW.exe crashes on start with the text,   
-
-  OpenMW: Fatal error
-  failed initializing shader: objects   
-  
-  This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.   
-  Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.
-
-* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a green/blue glow.
-
-* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
-
-* If you encounter a green/cyan screen bug then you're probably launching the game through the Openmw-launcher.exe instead of Openmw.exe   
-  
----
-### Automatically Disabled Plugins
-
-- When loading up your game if you happen to come across the issue of having multiple plugins disabled all you have to do is try 
-  unchecking and checking back a random esp in the load order from mo2.  
-    
-  That should sync up your mo2 load order and openmw enabled esps again.
-
-- If the plugins are somehow disabled in MO2 itself,  
-  Right click on any plugin and select enable all.   
-  Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
----
