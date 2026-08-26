@@ -19,7 +19,7 @@ Further try disabling SSAO and HBAO.
 **DON'T completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
 
 - **Reduce shadow distance and resolution**  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`  
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`.  
 `maximum shadow map distance` — try **4000**   
 `shadow map resolution` — try **1024**
 
