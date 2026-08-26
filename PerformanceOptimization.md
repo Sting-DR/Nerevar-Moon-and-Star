@@ -19,8 +19,8 @@ Further try disabling SSAO and HBAO, **don't completely disable post-processing*
 
 - **Reduce shadow distance and resolution**  
 `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`  
-- `maximum shadow map distance` — try **4000**
-- `shadow map resolution` — try **1024**
+`maximum shadow map distance` — try **4000**   
+`shadow map resolution` — try **1024**
 
 - **Disable normal maps**  
 `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`  
