@@ -2,7 +2,7 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
-- Disable the plugin **HBFS.omwscripts** from the list on the right pane   
+- Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
   (not HBFS-GMST.omwaddon just to be sure).   
   *this alone can reduce stutters by a lot so check how the game performs for you after this step*
 
