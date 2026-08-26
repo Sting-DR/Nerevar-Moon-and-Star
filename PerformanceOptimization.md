@@ -26,9 +26,6 @@ Further try disabling SSAO and HBAO, **don't completely disable post-processing*
 `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`  
 Disable both `auto use object normal maps` and `auto use terrain normal maps`.
 
-- **Install [Optimized SaintJ'S Landscape Remastered 2.0](https://www.nexusmods.com/morrowind/mods/58569?tab=files)** from the Optional files.  
-    Keep it at the very bottom of the load order.  
-
 - An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) (Free FPS for OpenMW) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk.  
   - I'm not yet aware of any problems but its probable you would run into one or two.  
   - Its not guaranteed to give results but could help with FPS improvement.  
