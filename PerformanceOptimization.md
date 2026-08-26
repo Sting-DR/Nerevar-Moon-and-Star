@@ -2,7 +2,8 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
-- Disable the plugin **HBFS.omwscripts** (not HBFS-GMST.omwaddon just to be sure)
+- Disable the plugin **HBFS.omwscripts** from the list on the right pane (not HBFS-GMST.omwaddon just to be sure).
+  *this alone can reduce stutters by a lot so check how the game performs for you after this step*
 
 - Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
 installation is simple just copy over the files located in `sandboxed\extract into your OpenMW install` to inside your OpenMW install folder and choose to overwrite.
