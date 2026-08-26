@@ -19,8 +19,6 @@ installation is simple just copy over the files located in `sandboxed\extract in
 - **Reduce view distance**  
   Alternatively you can use [Horiz0n](https://www.nexusmods.com/morrowind/mods/59668) which dynamically adjusts your view distance based on your performance.
 
-- **Disable AA shaders** — press `F2` in-game to open the post-processing menu and disable both EdgeAA and SMAA.
-
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off.
 
 - Try playing around with disabling shaders in general, however **don't completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
