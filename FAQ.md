@@ -79,7 +79,7 @@ However if you come across any quest that relies on a specific key in your inven
 
 * **Damage to undead Creatures** is affected by **weapon type** and is dictated by common sense (words of the author), check the mod-page for [Logical Damage to the Undead](https://www.nexusmods.com/morrowind/mods/58722) for more information.
 
-* Summoned Creatures cannot be soul trapped (Friendlier Fire)
+* Summoned Creatures cannot be soul trapped (*Friendlier Fire*)
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
