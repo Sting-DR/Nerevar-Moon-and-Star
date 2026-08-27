@@ -8,6 +8,9 @@
 
 ### OpenMW Crash / Not Launching / Shaders not working properly:  
 
+* If OpenMW.exe refuses to launch through MO2 with any error mentioning antivirus preventing it,   
+  Just restart MO2 and try launching it again.
+
 * If your OpenMW.exe crashes on start with the text,   
 
   OpenMW: Fatal error
