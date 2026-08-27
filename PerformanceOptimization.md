@@ -11,7 +11,7 @@
 - Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
 installation is simple just copy over the files located in `sandboxed\extract into your OpenMW install` to inside your OpenMW install folder and choose to overwrite.
 
-- **Reduce view distance**  
+- **Reduce view distance** —  
   Alternatively you can use [Horiz0n](https://www.nexusmods.com/morrowind/mods/59668) which dynamically adjusts your view distance based on your performance.
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off (send them to the left pane).
@@ -20,14 +20,14 @@ installation is simple just copy over the files located in `sandboxed\extract in
   
   **DON'T completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
 
-- **Reduce shadow distance and resolution**  
+- **Reduce shadow distance and resolution** —  
   `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`.
   
   `maximum shadow map distance` — try **4000**   
   
   `shadow map resolution` — try **1024**
 
-- **Disable normal maps**  
+- **Disable normal maps** —  
 `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`
 
   Disable both `auto use object normal maps` and `auto use terrain normal maps`.
@@ -44,7 +44,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
   
   Adjust the values to your liking, reducing density and rendering distance should help.
 
-- **Disable grass/groundcover**  
+- **Disable grass/groundcover** —  
   `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover`
   
   All the active groundcover plugins are at around the top of the loadorder, disable as needed.
