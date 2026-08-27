@@ -1,12 +1,12 @@
 ## FAQ
-- [OpenMW Crash / Shaders not working properly](#openmw-crash--shaders-not-working-properly)
+- [OpenMW Crash / Not Launching / Shaders not working properly](#openmw-crash--not launching--shaders-not-working-properly)
 - [Automatically Disabled Plugins](#automatically-disabled-plugins)
 - [New keybinds for added actions](#new-keybinds-for-added-actions)
 - [Notable Gameplay and Balance Changes](#notable-gameplay-and-balance-changes)
 - [Misaligned HUD](#misaligned-hud)
 ---
 
-### OpenMW Crash / Shaders not working properly:  
+### OpenMW Crash / Not Launching / Shaders not working properly:  
 
 * If your OpenMW.exe crashes on start with the text,   
 
