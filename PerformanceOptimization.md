@@ -4,8 +4,10 @@
 
 - Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
   (not HBFS-GMST.omwaddon just to be sure).   
-  *this alone can reduce stutters by a lot so check how the game performs for you after this step*
+  *this alone can reduce stutters by a lot so check how the game performs for you after this step*   
 
+  Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to control difficulty.
+  
 - [Use Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to upscale and/or generate frames.
 
 - Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
