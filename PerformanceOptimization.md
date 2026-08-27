@@ -6,7 +6,7 @@
   (not HBFS-GMST.omwaddon just to be sure).   
   *this alone can reduce stutters by a lot so check how the game performs for you after this step*   
 
-  Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to control difficulty.
+  Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to change difficulty later.
   
 - [Use Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to upscale and/or generate frames.
 
