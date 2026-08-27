@@ -73,5 +73,5 @@ Lastly Character Creation has also been supplemented with alternate start choice
 - [NEMAS](https://discord.gg/nASA3evJSX)
 
 ---
-*Please take the time to endorse the individual mods featured in NEMAS. Their contribution to the world of Morrowind is invaluable.  
+*Please take the time to endorse the individual mods featured in NEMAS. Their contribution to the world of Morrowind is invaluable. A quick easy endorsement guide is featured at the end of the install-guide.  
 Endorsements for NEMAS are appreciated :)*
