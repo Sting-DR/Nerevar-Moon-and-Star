@@ -43,7 +43,7 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **U** to Toggle Photo Mode  (*Photo Mode for OpenMW*)
 
-* Press **N** to Undress or dress back up instantly (*Devilish Dress Undress Hotkey*)
+* Press **N** to Undress or dress back up instantly, helpful for taking baths (*Devilish Dress Undress Hotkey*)
 
 * Press **V** to equip any Light sources you have (*LightHotkey*)
 
