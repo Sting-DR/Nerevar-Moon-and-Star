@@ -56,7 +56,9 @@ This is different from the cyan/green screen issue which is addressed below.
 * Press **Y** to bring up the Character Stats window (*Character Panel*)
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
- 
+
+* Press **G** while focusing on an item (not owned by other npcs) to move it around (*Perfect Placement*)
+
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
 
 * Press **Shift + F** to dispose of a body while looking at its inventory (*Quickloot*)
