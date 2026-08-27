@@ -20,7 +20,7 @@
 * *[Liam's Kitbashed PBR](https://www.nexusmods.com/morrowind/mods/59113?tab=files&file_id=1000064688)
  (copy the shaders folder from inside "0.51\Core PBR Shaders" to inside "OpenMW 0.51.0\resources"), if copied correctly it should ask to overwrite existing files, click yes.*  
       
-* *[Liam's Rafael Water Edits](https://www.nexusmods.com/api/files/430496794289/download) (follow install instructions as given but ignore the water_data.glsl file mentioned as its not included).*  
+* *[Liam's Rafael Water Edits](https://www.nexusmods.com/api/files/430496794289/download) (follow install instructions as given but ignore the water_data.glsl file mentioned as its included in the next step).*  
 
 * *[Edited Liam's Kitbashed PBR settings to use with NEMAS](https://www.nexusmods.com/morrowind/mods/58569?tab=files) (Paste it inside "OpenMW 0.51.0\resources" and overwrite).*
 
