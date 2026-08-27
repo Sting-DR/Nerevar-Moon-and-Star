@@ -14,18 +14,23 @@ installation is simple just copy over the files located in `sandboxed\extract in
 - **Reduce view distance**  
   Alternatively you can use [Horiz0n](https://www.nexusmods.com/morrowind/mods/59668) which dynamically adjusts your view distance based on your performance.
 
-- **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off (send them to the left pane).   
-Further try disabling SSAO and HBAO.   
-**DON'T completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
+- **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off (send them to the left pane).
+  
+  Further try disabling SSAO and HBAO.   
+  
+  **DON'T completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
 
 - **Reduce shadow distance and resolution**  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`.  
-`maximum shadow map distance` — try **4000**   
-`shadow map resolution` — try **1024**
+  `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shadows`.
+  
+  `maximum shadow map distance` — try **4000**   
+  
+  `shadow map resolution` — try **1024**
 
 - **Disable normal maps**  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`  
-Disable both `auto use object normal maps` and `auto use terrain normal maps`.
+`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Shaders`
+
+  Disable both `auto use object normal maps` and `auto use terrain normal maps`.
 
 - An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) (Free FPS for OpenMW) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk.  
   - I'm not yet aware of any problems but its probable you would run into one or two.  
@@ -34,14 +39,17 @@ Disable both `auto use object normal maps` and `auto use terrain normal maps`.
 - There is a new version of FreeFPS available [here](https://www.nexusmods.com/morrowind/mods/59700), however I haven't bothered testing it.
 
 - **Reduce grass/groundcover** —  
-You can reduce groundcover density by going to -  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Groundcover`  
-Adjust the values to your liking, reducing density and rendering distance should help.
+  You can reduce groundcover density by going to -  
+  `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Settings.cfg → Groundcover`  
+  
+  Adjust the values to your liking, reducing density and rendering distance should help.
 
 - **Disable grass/groundcover**  
-`Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover`  
-All the active groundcover plugins are at around the top of the loadorder, disable as needed.  
-If disabling any groundcover mod, also disable `groundcover.omwaddon` from the same *OpenmwPlayer → Groundcover list*  and `deleted_groundcover.omwaddon` in the plugin load order if they are included.
+  `Tools → Tools Plugins → OpenmwPlayer → OpenmwPlayer → Groundcover`
+  
+  All the active groundcover plugins are at around the top of the loadorder, disable as needed.
+  
+  If disabling any groundcover mod, also disable `groundcover.omwaddon` from the same *OpenmwPlayer → Groundcover list*  and `deleted_groundcover.omwaddon` in the plugin load order if they are included.
 
 - **Install [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)**.   
     Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
