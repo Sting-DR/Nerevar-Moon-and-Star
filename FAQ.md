@@ -19,12 +19,13 @@
   This almost always means you're on a wrong version of OpenMW, or something else went wrong with the OpenMW setup.   
   *Try re-downloading and re-installing the linked OpenMW and following the install guide to set it up again.*
 
-* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a **green/blue glow.**
-
-* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
+* If Liam's Kitbashed PBR shader hasn't been installed properly, PBR textures will result in a **green/blue shine on most textures.**   
+This is different from the cyan/green screen issue which is addressed below.
 
 * If you encounter a **green/cyan screen bug** then you're probably *launching the game through the Openmw-launcher.exe instead of Openmw.exe*
   
+* If you are seeing red textures ingame inplace of dark/black areas then go to the post processing menu again and disable both Multi-LUT_performance and Multi-LUT_interior_performance.
+
 ---
 ### Automatically Disabled Plugins
 
@@ -77,7 +78,9 @@
 However if you come across any quest that relies on a specific key in your inventory that needs to be handed over or used by another character then you will have to open the Keychain and drag the required key to inside your inventory.
 
 * **Damage to undead Creatures** is affected by **weapon type** and is dictated by common sense (words of the author), check the mod-page for [Logical Damage to the Undead](https://www.nexusmods.com/morrowind/mods/58722) for more information.
- 
+
+* Summoned Creatures cannot be soul trapped (Friendlier Fire)
+
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
