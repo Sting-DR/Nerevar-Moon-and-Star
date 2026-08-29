@@ -61,8 +61,10 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
 
+* Press **Shift + 1/2/3** to switch the active quick-select hotbar (*QuickSelect Ultimate*)
+
 * Press **Shift + F** to dispose of a body while looking at its inventory (*Quickloot*)
- 
+
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
 * Press **Left-Alt** to parry (*N'Garde*)
