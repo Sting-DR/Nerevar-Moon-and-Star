@@ -65,7 +65,7 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **Shift + F** to dispose of a body while looking at its inventory (*Quickloot*)
 
-* Press **Shift + R** to open the vanilla looting window if needed (*Quickloot*)
+* Press **Shift + R** to open the vanilla looting window while looking at a container (*Quickloot*)
 
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
