@@ -89,7 +89,7 @@ This is different from the cyan/green screen issue which is addressed below.
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
 
 * NPCs no longer allow you to **read owned books** for free.    
-Either befriend them (80 disposition), or sneak to read the book illegally.
+Either befriend them (80 disposition), or sneak to read the book illegally (*Shelf Control*)
 
 * When an NPC dies or disappears, they **lose ownership** of all previously owned items (*Dead Mer Tell No Tales*)
 
