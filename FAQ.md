@@ -97,6 +97,8 @@ Either befriend them (80 disposition), or sneak to read the book illegally (*She
 
 * Wearing Helmets will **hide your vampirism** from all NPCs (*Hiding Vampirism Under Helmets*)
 
+* You can **protect yourself from sun damage** as a vampire by completely covering your body with clothing or armor (*Protection From Sun Damage*)
+
 * **Necromancy is prohibited** in most cities.
 
 * You **take a portion of the damage dealt to each Daedra you summon**. Higher Conjuration skill reduces this unblockable damage.
