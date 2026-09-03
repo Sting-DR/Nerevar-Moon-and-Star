@@ -80,9 +80,6 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * **Faction Favored Skills and Attributes** have been changed, check the mod-page for [Better Faction Favored Skills and Attributes](https://www.nexusmods.com/morrowind/mods/59168) to find the new joining requirements.
 
-* All keys you pick up are automatically added to the **Keychain** in your inventory for easier management and usage.  
-However if you come across any quest that relies on a specific key in your inventory that needs to be handed over or used by another character then you will have to open the Keychain and drag the required key to inside your inventory.
-
 * **Damage to undead Creatures** is affected by **weapon type** and is dictated by common sense (words of the author), check the mod-page for [Logical Damage to the Undead](https://www.nexusmods.com/morrowind/mods/58722) for more information.
 
 * Summoned Creatures cannot be soul trapped (*Friendlier Fire*)
@@ -91,7 +88,14 @@ However if you come across any quest that relies on a specific key in your inven
 
 * All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
 
+* NPCs no longer allow you to **read owned books** for free.    
+Either befriend them (80 disposition), or sneak to read the book illegally.
+
+* When an NPC dies or disappears, they **lose ownership** of all previously owned items (*Dead Mer Tell No Tales*)
+
 * **Loitering around at night time in cities is prohibited**, allowed only if you carry a light source with you (Night Patrol)
+
+* Wearing Helmets will **hide your vampirism** from all NPCs (*Hiding Vampirism Under Helmets*)
 
 * **Necromancy is prohibited** in most cities.
 
