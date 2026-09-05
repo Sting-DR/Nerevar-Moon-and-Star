@@ -34,7 +34,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
   Disable both `auto use object normal maps` and `auto use terrain normal maps`.
 
-- An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) (Free FPS for OpenMW) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk.  
+- An [Occlusion Culling fork of OpenMW](https://www.nexusmods.com/morrowind/mods/58699) (Free FPS for OpenMW) is available to download on Nexus but its based on a pre release version of OpenMW 0.51 so use it at your own risk (Updated version linked below).  
   - I'm not yet aware of any problems but its probable you would run into one or two.  
   - Its not guaranteed to give results but could help with FPS improvement.  
   - You will obviously have to follow the steps for setting up OpenMW from the InstallGuide again.  
