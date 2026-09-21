@@ -2,12 +2,6 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
-- Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
-  (not HBFS-GMST.omwaddon just to be sure).   
-  *this alone can reduce stutters by a lot so check how the game performs for you after this step*   
-
-  Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to change difficulty later.
-  
 - [Use Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to upscale and/or generate frames.
 
 - Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
@@ -57,4 +51,12 @@ installation is simple just copy over the files located in `sandboxed\extract in
     Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
     Keep it right under **Project Atlas Meshes** in the load order.
 
+
+- Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
+  (not HBFS-GMST.omwaddon just to be sure).   
+  *this alone can reduce stutters by a lot so check how the game performs for you after this step*   
+
+  Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to change difficulty later.
+
+  If disabling this happens to not cause much of a performance gain for you then its best to re-enable it.
 ---
