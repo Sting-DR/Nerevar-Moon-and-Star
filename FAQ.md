@@ -36,7 +36,7 @@ This is different from the cyan/green screen issue which is addressed below.
 
 - If the plugins are somehow disabled in MO2 itself,  
   Right click on any plugin and select enable all.   
-  Then manually disable all plugins from LefemmArmor.esp to groundcover.omwaddon.esp
+  Then manually disable all esps from right under the last esm (which should be Vvardenfell On Vellum.esm for now) to groundcover.omwaddon.esp
 ---
 
 ### New keybinds for added actions:  
