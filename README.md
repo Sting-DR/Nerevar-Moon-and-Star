@@ -4,7 +4,7 @@
 *NEMAS now comes with t-w-o profiles!*
 
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
-![~1500 Mods](https://img.shields.io/badge/Mods-~1500-informational)
+![~1800 Mods](https://img.shields.io/badge/Mods-~1800-informational)
 
 ---
 Try installing from [Nexus](https://www.nexusmods.com/morrowind/mods/58569) incase the Wabbajack version is outdated or fails. 
