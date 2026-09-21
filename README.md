@@ -1,7 +1,6 @@
 ![NEMAS Banner](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/1784b73a460d6b84ca14f083c8f0f484c6754352/NEMAS_thumb.png)
 
 # **Nerevar Moon-and-Star (NEMAS)**
-*NEMAS now comes with t-w-o profiles!*
 
 ![PBR](https://img.shields.io/badge/Lighting-PBR-informational)
 ![~1800 Mods](https://img.shields.io/badge/Mods-~1800-informational)
