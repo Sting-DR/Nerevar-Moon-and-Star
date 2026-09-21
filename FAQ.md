@@ -103,8 +103,6 @@ Either befriend them (80 disposition), or sneak to read the book illegally (*She
 
 * You **take a portion of the damage dealt to each Daedra you summon**. Higher Conjuration skill reduces this unblockable damage.
 
-* The **Open spell no longer automatically unlocks** doors or containers. Instead, it buffs your Security, but the mental strain drains your Fatigue. You need Security of at least 15 to understand how to exploit this.  
-
 The three above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
 
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
