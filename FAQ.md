@@ -3,7 +3,7 @@
 - [Automatically Disabled Plugins](#automatically-disabled-plugins)
 - [New keybinds for added actions](#new-keybinds-for-added-actions)
 - [Notable Gameplay and Balance Changes](#notable-gameplay-and-balance-changes)
-- [Misaligned HUD / Transparent box on screen](#misaligned-hud)
+- [Misaligned HUD / Transparent box on screen](#misaligned-hud--transparent-box-on-screen)
 ---
 
 ### OpenMW Crash / Not Launching / Shaders not working properly:  
