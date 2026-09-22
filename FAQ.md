@@ -69,6 +69,8 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
+* I Forgot to bind any key for Spellstrike so please set it yourself through the script settings.  
+  Allows the player and NPCs to combine weapon and spell attacks together (*Spellstrike*)
 * Press **Left-Alt** to parry (*N'Garde*)
 ---
 
@@ -78,11 +80,15 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
 
+* Death has consequences, tho not permanent (*Death Reflections*)
+
 * **Faction Favored Skills and Attributes** have been changed, check the mod-page for [Better Faction Favored Skills and Attributes](https://www.nexusmods.com/morrowind/mods/59168) to find the new joining requirements.
 
 * **Damage to undead Creatures** is affected by **weapon type** and is dictated by common sense (words of the author), check the mod-page for [Logical Damage to the Undead](https://www.nexusmods.com/morrowind/mods/58722) for more information.
 
 * Summoned Creatures cannot be soul trapped (*Friendlier Fire*)
+
+* Summoned Creatures may act disobedient depending on enemy level (*Disobedient Summons*)
 
 * All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
 
@@ -103,7 +109,7 @@ Either befriend them (80 disposition), or sneak to read the book illegally (*She
 
 * You **take a portion of the damage dealt to each Daedra you summon**. Higher Conjuration skill reduces this unblockable damage.
 
-The three above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
+The two above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
 
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
