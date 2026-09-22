@@ -69,8 +69,9 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
 
-* I Forgot to bind any key for Spellstrike so please set it yourself through the script settings.  
+* Press **X** to use spellstrike.  
   Allows the player and NPCs to combine weapon and spell attacks together (*Spellstrike*)
+  
 * Press **Left-Alt** to parry (*N'Garde*)
 ---
 
