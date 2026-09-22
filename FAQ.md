@@ -53,6 +53,8 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **R** while hovering over an item in your inventory to equip/use it (*Inventory Extender*)
 
+* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
+
 * Press **Y** to bring up the Character Stats window (*Character Panel*)
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
