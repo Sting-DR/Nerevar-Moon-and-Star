@@ -3,7 +3,7 @@
 - [Automatically Disabled Plugins](#automatically-disabled-plugins)
 - [New keybinds for added actions](#new-keybinds-for-added-actions)
 - [Notable Gameplay and Balance Changes](#notable-gameplay-and-balance-changes)
-- [Misaligned HUD](#misaligned-hud)
+- [Misaligned HUD / Transparent box on screen](#misaligned-hud)
 ---
 
 ### OpenMW Crash / Not Launching / Shaders not working properly:  
@@ -117,17 +117,19 @@ The two above settings can be toggled off/on through Sane Magic Overhaul's scrip
 *To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
 
 ---
-### Misaligned HUD:  
+### Misaligned HUD / Transparent box on screen:  
 
 If you are playing with any resolution other than 1080p you'll likely come across some of the HUD elements spread out weirdly on your screen.  
 They can be easily adjusted through messing with the following script settings -  
 - HUD Weapon Charge (enable Better Bars compatibility)
 - TimeHUD
 - LocationHUD
-- BuffTimers for OpenMW
+- Buff Timers
 - Ammo Count HUD
-- Nearby Doors (OpenMW)
+- Nearby Doors
 - Sun's Dusk: UI (can be dragged around when the game is paused)
 - Best Friends Forever: HUD (follower HUD that only appears when you have a companion in your party)
+
+**Buff Timers** is also what causes the large transparent box on screen when starting a new game sometimes, toggle off the *Size and Positioning mode* in its script settings to remove that.
 
  ---
