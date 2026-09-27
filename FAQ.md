@@ -59,7 +59,7 @@ This is different from the cyan/green screen issue which is addressed below.
 
 * Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
 
-* Press **K** when hovering over an item in the inventory to mark it as junk, classifying them as such such makes it easier to sell them later (*Don't Sell That S'wit - Marked Quest Items*)
+* Press **K** when hovering over an item in the inventory to mark it as junk, classifying them as such such makes it easier to sell them later (*Loot n Dump - Mark as Junk and Autosell Items*)
 
 * Press **G** while focusing on an item (not owned by other npcs) to move it around (*Perfect Placement*)
 
