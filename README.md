@@ -37,7 +37,7 @@ Most Faction experiences have been touched up with better role-playing choice
 
 ## Companions
 Accompanying you on your journey will be new companions with actual personalities and personal stories that you will be allowed to take part in and shape.  
-They include many popular ones like **Arvesa - An Armiger's Tale, Dras the Dunmer Legionnaire, Into the Void - Companion and Quests, Fons - Shapeshifting Bard Companion** and **Biz'Kuitz Blissful Mind - Alfiq Scholar Companion** among a few others.
+They include many popular ones like Dras the Dunmer Legionnaire, Into the Void - Companion and Quests, Fons - Shapeshifting Bard Companion** and **Biz'Kuitz Blissful Mind - Alfiq Scholar Companion** among a few others.
 
 ## Immersion & Character
 Immerse yourself better in the world with **Sun's Dusk - Needs and Survival** which introduces survival mechanics and needs you to eat, drink, sleep, bathe, and dress appropriately (all configurable as per personal choice).  
