@@ -12,7 +12,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Disable SSGI shaders** — press `F2` in-game to open the post-processing menu and turn them off (send them to the left pane).
   
-  Further try disabling SSAO and HBAO.   
+  Further try disabling ScreenSpaceShadows_Interior, SSAO and HBAO.   
   
   **DON'T completely disable post-processing** through the Settings->Video menu as that will break some quest mods that rely on it.
 
