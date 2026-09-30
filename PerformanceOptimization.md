@@ -45,6 +45,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
     Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
     Keep it right under **Project Atlas Meshes** in the load order.
 
+- Disable **AnimatedLanterns**.
 
 - Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
   (not HBFS-GMST.omwaddon just to be sure).   
@@ -53,4 +54,5 @@ installation is simple just copy over the files located in `sandboxed\extract in
   Just remember that this will effectively disable the mod **Harder Better Faster Stronger** so you will have to use the vanilla difficulty slider in-game if you want to change difficulty later.
 
   If disabling this happens to not cause much of a performance gain for you then its best to re-enable it.
+
 ---
