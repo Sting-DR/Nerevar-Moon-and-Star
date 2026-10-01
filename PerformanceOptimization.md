@@ -45,8 +45,6 @@ installation is simple just copy over the files located in `sandboxed\extract in
     Vanilla Data, MOP Data, TR Data, Project Atlas Data are all supported.   
     Keep it right under **Project Atlas Meshes** in the load order.
 
-- Disable the mod **AnimatedLanterns**.
-
 - Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
   (not HBFS-GMST.omwaddon just to be sure).   
   *this alone can reduce stutters by a lot so check how the game performs for you after this step*   
