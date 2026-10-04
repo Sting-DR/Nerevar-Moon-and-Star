@@ -2,6 +2,8 @@
 
 > ### If you are experiencing performance issues, try the following steps
 
+- Look up how to increase **Shader Cache Size** on your device, set it to 10 GB or more.
+
 - [Use Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to upscale and/or generate frames.
 
 - Install [Rubic0n - OpenMW Lua Go Vroom](https://www.nexusmods.com/morrowind/mods/58557) —  
