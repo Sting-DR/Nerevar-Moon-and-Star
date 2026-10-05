@@ -40,43 +40,26 @@ This is different from the cyan/green screen issue which is addressed below.
 ---
 
 ### New keybinds for added actions:  
-
-* Press **U** to Toggle Photo Mode  (*Photo Mode for OpenMW*)
-
-* Press **N** to Undress or dress back up instantly, helpful for taking baths (*Devilish Dress Undress Hotkey*)
-
-* Press **V** to equip any Light sources you have (*LightHotkey*)
-
-* Press **Q** to toggle lock-on (*Dynamic camera*)
-
-* Press **C** to command followers depending on what you are looking at (*Follower Commands*)
-
-* Press **R** while hovering over an item in your inventory to equip/use it (*Inventory Extender*)
-
-* Press **M** to bring up the Dynamic Map (*Dynamic Map*)
-
-* Press **Y** to bring up the Character Stats window (*Character Panel*)
-
-* Press **Z** to bring up the added new Journal (*Questman - Modern Quest Journal*)
-
-* Press **K** when hovering over an item in the inventory to mark it as junk, classifying them as such such makes it easier to sell them later (*Loot n Dump - Mark as Junk and Autosell Items*)
-
-* Press **G** while focusing on an item (not owned by other npcs) to move it around (*Perfect Placement*)
-
-* Press **G** when facing a locked door to knock on it, if the owner is inside they will open it shortly (*Devilish Knocking*)
-
-* Press **Shift + 1/2/3** to switch the active quick-select hotbar (*QuickSelect Ultimate*)
-
-* Press **Shift + F** to dispose of a body while looking at its inventory (*Quickloot*)
-
-* Press **Shift + R** to open the vanilla looting window while looking at a container (*Quickloot*)
-
-* Press **Shift + Space** to pick up a book instead of reading it, directly picking up instead of reading it first could break a few quest scripts (*Book Pickup*)
-
-* Press **X** while raising a weapon for attack to attempt a spellstrike.  
-  Allows the player and NPCs to combine weapon and spell attacks together (*Spellstrike*)
-  
-* Press **Left-Alt** to parry (*N'Garde*)
+| Key | Action | Mod |
+|---|---|---|
+| U | Toggle Photo Mode | Photo Mode for OpenMW |
+| N | Undress or dress back up instantly, helpful for taking baths | Devilish Dress Undress Hotkey |
+| V | Equip any Light sources you have | LightHotkey |
+| Q | Toggle lock-on | Dynamic camera |
+| C | Command followers depending on what you are looking at | Follower Commands |
+| R | While hovering over an item in your inventory, equip/use it | Inventory Extender |
+| M | Bring up the Dynamic Map | Dynamic Map |
+| Y | Bring up the Character Stats window | Character Panel |
+| Z | Bring up the added new Journal | Questman - Modern Quest Journal |
+| K | While hovering over an item in the inventory, mark it as junk (makes it easier to sell later) | Loot n Dump - Mark as Junk and Autosell Items |
+| G | While focusing on an item (not owned by other NPCs), move it around | Perfect Placement |
+| G | When facing a locked door, knock on it — if the owner is inside they will open it shortly | Devilish Knocking |
+| Shift + 1/2/3 | Switch the active quick-select hotbar | QuickSelect Ultimate |
+| Shift + F | Dispose of a body while looking at its inventory | Quickloot |
+| Shift + R | Open the vanilla looting window while looking at a container | Quickloot |
+| Shift + Space | Pick up a book instead of reading it (may break a few quest scripts) | Book Pickup |
+| X | While raising a weapon for attack, attempt a spellstrike — combine weapon and spell attacks together | Spellstrike |
+| Left-Alt | Parry | N'Garde |
 ---
 
 ### Notable Gameplay and Balance Changes:
