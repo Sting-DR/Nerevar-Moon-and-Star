@@ -63,45 +63,25 @@ This is different from the cyan/green screen issue which is addressed below.
 ---
 
 ### Notable Gameplay and Balance Changes:
-
-* **Game Difficulty** can be adjusted using the script settings in-game for *Harder Better Faster Stronger (HBFS)*
-
-* **Sun's Dusk** adds several immersive survival mechanics to the game. All of them can be disabled or tweaked using the script settings if needed in *Sun's Dusk: Primary Needs*
-
-* Death has consequences, tho not permanent (*Death Reflections*)
-
-* **Faction Favored Skills and Attributes** have been changed, check the mod-page for [Better Faction Favored Skills and Attributes](https://www.nexusmods.com/morrowind/mods/59168) to find the new joining requirements.
-
-* **Damage to undead Creatures** is affected by **weapon type** and is dictated by common sense (words of the author), check the mod-page for [Logical Damage to the Undead](https://www.nexusmods.com/morrowind/mods/58722) for more information.
-
-* Summoned Creatures cannot be soul trapped (*Friendlier Fire*)
-
-* Summoned Creatures may act disobedient depending on enemy level (*Disobedient Summons*)
-
-* All **traps are hidden** initially, use related spells or try using a probe on a lock to have a chance of revealing the trap (*Hidden Traps*)   
-
-* All **locks are breakable** by hitting them if you have enough strength (*Brute Force*)
-
-* Harsh weather will make wandering NPCs go to their homes / taverns or kind of disappear for the duration of the weather.
-
-* NPCs no longer allow you to **read owned books** for free.    
-Either befriend them (80 disposition), or sneak to read the book illegally (*Shelf Control*)
-
-* When an NPC dies or disappears, they **lose ownership** of all previously owned items (*Dead Mer Tell No Tales*)
-
-* **Loitering around at night time in cities is prohibited**, allowed only if you carry a light source with you (Night Patrol)
-
-* Wearing Helmets will **hide your vampirism** from all NPCs (*Hiding Vampirism Under Helmets*)
-
-* You can **protect yourself from sun damage** as a vampire by completely covering your body with clothing or armor (*Protection From Sun Damage*)
-
-* **Necromancy is prohibited** in most cities.
-
-* You **take a portion of the damage dealt to each Daedra you summon**. Higher Conjuration skill reduces this unblockable damage.
-
-The two above settings can be toggled off/on through Sane Magic Overhaul's script settings in-game.
-
-*To Customize further check the Scripts tab after you create a character to enable/disable or set key bindings for mods according to your liking*
+| Feature | Description | Mod / Source |
+|---|---|---|
+| Game Difficulty | Game Difficulty can be adjusted using the script settings in-game | Harder Better Faster Stronger (HBFS) |
+| Survival Mechanics | Several immersive survival mechanics added to the game. All of them can be disabled or tweaked using the script settings if needed in Sun's Dusk: Primary Needs | Sun's Dusk |
+| Death Consequences | Death has consequences, tho not permanent | Death Reflections |
+| Faction Requirements | Faction Favored Skills and Attributes have been changed, check the mod-page to find the new joining requirements. | Better Faction Favored Skills and Attributes |
+| Undead Damage | Damage to undead Creatures is affected by weapon type and is dictated by common sense (words of the author), check the mod-page for more information. | Logical Damage to the Undead |
+| Summoned Creatures: Soul Trap | Summoned Creatures cannot be soul trapped | Friendlier Fire |
+| Summoned Creatures: Obedience | Summoned Creatures may act disobedient depending on enemy level | Disobedient Summons |
+| Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
+| Locks | All locks are breakable by hitting them if you have enough strength | Brute Force |
+| NPC Behavior | Harsh weather will make wandering NPCs go to their homes / taverns or kind of disappear for the duration of the weather. | Lua NPC Schedule |
+| Owned Books | NPCs no longer allow you to read owned books for free. Either befriend them (80 disposition), or sneak to read the book illegally | Shelf Control |
+| Item Ownership | When an NPC dies or disappears, they lose ownership of all previously owned items | Dead Mer Tell No Tales |
+| Night Curfew | Loitering around at night time in cities is prohibited, allowed only if you carry a light source with you | Night Patrol |
+| Vampirism & Helmets | Wearing Helmets will hide your vampirism from all NPCs | Hiding Vampirism Under Helmets |
+| Vampire Sun Protection | You can protect yourself from sun damage as a vampire by completely covering your body with clothing or armor | Protection From Sun Damage |
+| Necromancy Prohibition | Necromancy is prohibited in most cities. | Sane Magic Overhaul |
+| Daedra Summoning Damage | You take a portion of the damage dealt to each Daedra you summon. Higher Conjuration skill reduces this unblockable damage. | Sane Magic Overhaul |
 
 ---
 ### Misaligned HUD / Transparent box on screen:  
