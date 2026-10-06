@@ -72,8 +72,8 @@ This is different from the cyan/green screen issue which is addressed below.
 | Undead Damage | Damage to undead Creatures is affected by weapon type and is dictated by common sense (words of the author), check the mod-page for more information. | Logical Damage to the Undead |
 | Summoned Creatures: Soul Trap | Summoned Creatures cannot be soul trapped | Friendlier Fire |
 | Summoned Creatures: Obedience | Summoned Creatures may act disobedient depending on enemy level | Disobedient Summons |
-| Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
-| Locks | All locks are breakable by hitting them if you have enough strength | Brute Force |
+| Hidden Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
+| Lock Breaking | All locks are breakable by hitting them if you have enough strength | Brute Force |
 | NPC Behavior | Harsh weather will make wandering NPCs go to their homes / taverns or kind of disappear for the duration of the weather. | Lua NPC Schedule |
 | Owned Books | NPCs no longer allow you to read owned books for free. Either befriend them (80 disposition), or sneak to read the book illegally | Shelf Control |
 | Item Ownership | When an NPC dies or disappears, they lose ownership of all previously owned items | Dead Mer Tell No Tales |
