@@ -58,6 +58,8 @@ This is different from the cyan/green screen issue which is addressed below.
 | Shift + F | Dispose of a body while looking at its inventory | Quickloot |
 | Shift + R | Open the vanilla looting window while looking at a container | Quickloot |
 | Shift + Space | Pick up a book instead of reading it (may break a few quest scripts) | Book Pickup |
+| Hold R | To bring up spell wheel | Handy Stylish Quick Access Wheels |
+| Hold F | To bring up weapon wheel | Handy Stylish Quick Access Wheels |
 | X | While raising a weapon for attack, attempt a spellstrike — combine weapon and spell attacks together | Spellstrike |
 | Left-Alt | Parry | N'Garde |
 ---
