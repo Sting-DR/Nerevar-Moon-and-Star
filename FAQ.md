@@ -48,6 +48,7 @@ This is different from the cyan/green screen issue which is addressed below.
 | Q | Toggle lock-on | Dynamic camera |
 | C | Command followers depending on what you are looking at | Follower Commands |
 | R | While hovering over an item in your inventory, equip/use it | Inventory Extender |
+| K | While hovering over an item in your inventory, mark it as junk | Loot n Dump - Mark as Junk and Autosell Items |
 | M | Bring up the Dynamic Map | Dynamic Map |
 | Y | Bring up the Character Stats window | Character Panel |
 | Z | Bring up the added new Journal | Questman - Modern Quest Journal |
