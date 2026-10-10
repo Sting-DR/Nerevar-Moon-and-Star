@@ -70,7 +70,6 @@ This is different from the cyan/green screen issue which is addressed below.
 |---|---|---|
 | Game Difficulty | Game Difficulty can be adjusted using the script settings in-game | Harder Better Faster Stronger (HBFS) |
 | Survival Mechanics | Several immersive survival mechanics added to the game. All of them can be disabled or tweaked using the script settings if needed in Sun's Dusk: Primary Needs | Sun's Dusk |
-| Death Consequences | Death has consequences, tho not permanent | Death Reflections |
 | Faction Requirements | Faction Favored Skills and Attributes have been changed, check the mod-page to find the new joining requirements. | Better Faction Favored Skills and Attributes |
 | Undead Damage | Damage to undead Creatures is affected by weapon type and is dictated by common sense (words of the author), check the mod-page for more information. | Logical Damage to the Undead |
 | Summoned Creatures: Soul Trap | Summoned Creatures cannot be soul trapped | Friendlier Fire |
@@ -78,6 +77,7 @@ This is different from the cyan/green screen issue which is addressed below.
 | Hidden Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
 | Lock Breaking | All locks are breakable by hitting them if you have enough strength | Brute Force |
 | NPC Behavior | Harsh weather will make wandering NPCs go to their homes / taverns or kind of disappear for the duration of the weather. | Lua NPC Schedule |
+| Charm Requires Subtlety | If you cast a Charm spell with the subtlety of a charging Kagouti, expect the NPC to hate you forever once it wears off | Sane Magic Overhaul |
 | Owned Books | NPCs no longer allow you to read owned books for free. Either befriend them (80 disposition), or sneak to read the book illegally | Shelf Control |
 | Item Ownership | When an NPC dies or disappears, they lose ownership of all previously owned items | Dead Mer Tell No Tales |
 | Night Curfew | Loitering around at night time in cities is prohibited, allowed only if you carry a light source with you | Night Patrol |
