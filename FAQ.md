@@ -70,8 +70,8 @@ This is different from the cyan/green screen issue which is addressed below.
 |---|---|---|
 | Game Difficulty | Game Difficulty can be adjusted using the script settings in-game | Harder Better Faster Stronger (HBFS) |
 | Survival Mechanics | Several immersive survival mechanics added to the game. All of them can be disabled or tweaked using the script settings if needed in Sun's Dusk: Primary Needs | Sun's Dusk |
-| Faction Requirements | Faction Favored Skills and Attributes have been changed, check the mod-page to find the new joining requirements. | Better Faction Favored Skills and Attributes |
-| Undead Damage | Damage to undead Creatures is affected by weapon type and is dictated by common sense (words of the author), check the mod-page for more information. | Logical Damage to the Undead |
+| Faction Requirements | Faction Favored Skills and Attributes have been changed, check the mod-page to find the new joining requirements | Better Faction Favored Skills and Attributes |
+| Undead Damage | Damage to undead Creatures is affected by weapon type and is dictated by common sense (words of the author), check the mod-page for more information | Logical Damage to the Undead |
 | Summoned Creatures: Soul Trap | Summoned Creatures cannot be soul trapped | Friendlier Fire |
 | Summoned Creatures: Obedience | Summoned Creatures may act disobedient depending on enemy level | Disobedient Summons |
 | Hidden Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
@@ -84,7 +84,7 @@ This is different from the cyan/green screen issue which is addressed below.
 | Vampirism & Helmets | Wearing Helmets will hide your vampirism from all NPCs | Hiding Vampirism Under Helmets |
 | Vampire Sun Protection | You can protect yourself from sun damage as a vampire by completely covering your body with clothing or armor | Protection From Sun Damage |
 | Necromancy Prohibition | Necromancy is prohibited in most cities. | Sane Magic Overhaul |
-| Daedra Summoning Damage | You take a portion of the damage dealt to each Daedra you summon. Higher Conjuration skill reduces this unblockable damage. | Sane Magic Overhaul |
+| Daedra Summoning Damage | You take a portion of the damage dealt to each Daedra you summon. Higher Conjuration skill reduces this unblockable damage | Sane Magic Overhaul |
 
 ---
 ### Misaligned HUD / Transparent box on screen:  
