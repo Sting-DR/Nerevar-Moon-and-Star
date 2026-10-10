@@ -1,7 +1,7 @@
 [
   {
     "title": "Nerevar Moon-and-Star",
-    "description": "A ~1800 Overhaul mod package that visually and mechanically enhances Vvardenfell for returning and new players alike.",
+    "description": "A ~1900 Overhaul mod package that visually and mechanically enhances Vvardenfell for returning and new players alike.",
     "author": "StingDR",
     "maintainers": [
       "github/Sting-DR"
@@ -17,21 +17,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Sting-DR/Nerevar-Moon-and-Star/main/NEMAS_thumb.png",
       "readme": "https://github.com/Sting-DR/Nerevar-Moon-and-Star",
-      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_5.0.wabbajack_dff6c3b0-7674-4f43-a294-7bbf35e9c910",
+      "download": "https://authored-files.wabbajack.org/Nerevar-Moon-and-Star_(NEMAS)_5.1.wabbajack_b3ca4e8a-b376-4348-83b7-a88c31bb4aae",
       "machineURL": "NerevarMoonAndStar",
       "discordURL": "https://discord.gg/nASA3evJSX",
       "websiteURL": "https://www.nexusmods.com/morrowind/mods/58569"
     },
     "download_metadata": {
-      "Hash": "lGPtQGXb2/c=",
-      "Size": 41786550,
-      "NumberOfArchives": 1880,
-      "SizeOfArchives": 64160741316,
-      "NumberOfInstalledFiles": 222014,
-      "SizeOfInstalledFiles": 118935983227,
-      "TotalSize": 183096724543
+      "Hash": "/H1ntxgPMA8=",
+      "Size": 41246051,
+      "NumberOfArchives": 1922,
+      "SizeOfArchives": 64329089843,
+      "NumberOfInstalledFiles": 204908,
+      "SizeOfInstalledFiles": 109275297405,
+      "TotalSize": 173604387248
     },
-    "version": "5.0"
+    "version": "5.1"
   }
 ]
 
