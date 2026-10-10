@@ -76,6 +76,7 @@ This is different from the cyan/green screen issue which is addressed below.
 | Summoned Creatures: Obedience | Summoned Creatures may act disobedient depending on enemy level | Disobedient Summons |
 | Hidden Traps | All traps are hidden initially, use related spells or try using a probe on a lock to have a chance of revealing the trap | Hidden Traps |
 | Lock Breaking | All locks are breakable by hitting them if you have enough strength | Brute Force |
+| Brighter Light Sources | Boosts player-held light radius, turned off by default. Can be turned on and adjusted in script settings | Held Light Boost |
 | NPC Behavior | Harsh weather will make wandering NPCs go to their homes / taverns or kind of disappear for the duration of the weather. | Lua NPC Schedule |
 | Charm Requires Subtlety | If you cast a Charm spell with the subtlety of a charging Kagouti, expect the NPC to hate you forever once it wears off | Sane Magic Overhaul |
 | Owned Books | NPCs no longer allow you to read owned books for free. Either befriend them (80 disposition), or sneak to read the book illegally | Shelf Control |
