@@ -49,6 +49,7 @@ installation is simple just copy over the files located in `sandboxed\extract in
 
 - **Install [Distant Land Billboard Meshes](https://www.nexusmods.com/morrowind/mods/60612)**
     Load order position doesn't matter.
+    Both this and the above LOD meshes are more-so to help with performance when playing with higher view distance values.
 
 - Disable the plugin **HBFS.omwscripts** from the list on the right pane.   
   (not HBFS-GMST.omwaddon just to be sure).   
