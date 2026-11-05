@@ -23,15 +23,15 @@
       "websiteURL": "https://www.nexusmods.com/morrowind/mods/58569"
     },
     "download_metadata": {
-      "Hash": "yKYnL/zkAa8=",
-      "Size": 70453923,
-      "NumberOfArchives": 1999,
-      "SizeOfArchives": 64679914030,
-      "NumberOfInstalledFiles": 209961,
-      "SizeOfInstalledFiles": 109031977417,
-      "TotalSize": 173711891447
+      "Hash": "Ad796uP2WAM=",
+      "Size": 70393088,
+      "NumberOfArchives": 2016,
+      "SizeOfArchives": 64691446305,
+      "NumberOfInstalledFiles": 209085,
+      "SizeOfInstalledFiles": 109073484095,
+      "TotalSize": 173764930400
     },
-    "version": "5.1.3"
+    "version": "5.1.4"
   }
 ]
 
