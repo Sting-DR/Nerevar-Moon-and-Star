@@ -38,6 +38,8 @@
 
 **P.S. Make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2**
 ---
+**If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)**.
+---
 *If you enjoy the list there is this very easy way to endorse all the mods in the mod-list with just a few clicks:*
 1. Right-click on any of the mods in the load order on the left pane in MO2.
 2. Select **All-Mods->Expand-All**.
@@ -45,6 +47,4 @@
 4. While all the mods in the load order are selected now, right-click on any one of them and select **Endorse**.
 5. This can take at most 3-4 mins, ignore any errors you see on-screen while this is happening.
 6. Thanks for taking your time to endorse all the fellow authors.
----
-**If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)**.
 ---
