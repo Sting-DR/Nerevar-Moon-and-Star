@@ -4,13 +4,9 @@
 
 **2.** Install Morrowind GOTY.
 
-**3.** Delete all the files inside "Morrowind\Data Files\Splash", make a backup of them if you want to.
+**3.** Install OpenMW 0.51 from [here](https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0).
 
-**4.** Run the game once to generate necessary ini files.
-
-**5.** Install OpenMW 0.51 from [here](https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0).
-
-**6.** Download and overwrite these files into the OpenMW folder -
+**4.** Download and overwrite these files into the OpenMW folder -
 
 ---
 
@@ -26,19 +22,19 @@
 
 ---
       
-**7.** Create folders to use as download and install directories.
+**5.** Create folders to use as download and install directories.
 
-**8.** Install modlist from Wabbajack, make sure your Nexus account is logged in with Wabbajack first (Settings > Logins - Nexus Mods).
+**6.** Install modlist from Wabbajack, make sure your Nexus account is logged in with Wabbajack first (Settings > Logins - Nexus Mods).
 
-**9.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folder to the related entries (NEMAS and NEMAS launcher).
+**7.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folder to the related entries (NEMAS and NEMAS launcher).
 
-**10.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
+**8.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-**11.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
+**9.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
 
-**12.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
+**10.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
-**13.** You are now free to play the game however without reading the **[FAQ](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md)** you will be confused by a lot of the added features and fixes for known problems you might be having.   
+**11.** You are now free to play the game however without reading the **[FAQ](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md)** you will be confused by a lot of the added features and fixes for known problems you might be having.   
 
 **P.S. Make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2**
 ---
