@@ -30,13 +30,13 @@
 
 **8.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
-**9.** In the OpenMW launcher **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
+**9.** Launch NEMAS launcher and go to **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.
+**P.S. To play the game make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2, launcher should only be used for step 9**
 
 **10.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
 **11.** You are now free to play the game however without reading the **[FAQ](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/FAQ.md)** you will be confused by a lot of the added features and fixes for known problems you might be having.   
 
-**P.S. Make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2**
 ---
 **If you need help with performance optimization visit this [page](https://github.com/Sting-DR/Nerevar-Moon-and-Star/blob/main/PerformanceOptimization.md)**.
 ---
