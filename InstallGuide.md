@@ -26,7 +26,7 @@
 
 **6.** Install modlist from Wabbajack, make sure your Nexus account is logged in with Wabbajack first (Settings > Logins - Nexus Mods).
 
-**7.** In Mod Organizer 2, go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folder to the related entries (NEMAS and NEMAS launcher).
+**7.** In Mod Organizer 2 (look for its .exe in the install location), go to Modify Executables (In the top-right dropdown) and add both openmw.exe and openmw-launcher.exe from within your installed OpenMW folder to the related entries (NEMAS and NEMAS launcher).
 
 **8.** DO NOT activate any additional mods/plugins, leave everything as it is after installing through wabbajack.
 
