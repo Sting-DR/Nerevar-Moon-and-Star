@@ -32,7 +32,7 @@
 
 **9.** Launch NEMAS launcher and go to **Data Files > Navigation Mesh Cache**, click on **Update**. This could take some time but will reduce stutter and loading times while playing.  
 
-**P.S. To play the game make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2, launcher should only be used for step 9**
+**P.S. To play the game make sure to launch the game through Openmw.exe and not Openmw-launcher.exe in MO2, the launcher should only be used for step 9.**
 
 **10.** Error message saying openmw has frozen is nothing to worry about, this is common when using big modlists. Everything should load up properly within a minute or two after launching oppenmw.
 
